@@ -1,0 +1,5 @@
+def ranged(lst, end=0):
+    if end == 0:
+        return range(int(len(lst)))
+    else:
+        return range(int(len(lst)), end)
