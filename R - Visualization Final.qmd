@@ -1,0 +1,276 @@
+---
+title: "Homework 2"
+format: pdf
+editor: visual
+---
+
+## Supply some narrative description of the data set.  What are we being asked to look at?
+
+```{r}
+dataPermit_full <- read.csv('https://raw.githubusercontent.com/hadley/building-permits/master/dataPermit_full.csv')
+library(ggplot2)
+library(dplyr)
+library(purrr)
+library(tidyverse)
+```
+
+From the [following](https://github.com/hadley/building-permits/blob/master/permits-practice.md) source, we have this quote:
+
+*"f1 = 1 family home; f24 = 2-4 family home; f5 = 5+ unit home*
+
+*units = number built; change = percent change from previous month*
+
+*value = average value per unit; valchange = percent change from previous month"*
+
+We have, sorted by data and date, average value per unit and percent change from previous month of 1 family homes, 2-4 family homes, and finally 5+ unit homes.
+
+## Regional trends/patterns:
+
+First we will clean data into the correct month/year and city/state information.
+
+```{r}
+cleaningdata <- dataPermit_full %>%
+  as_tibble() %>%
+  select(-ends_with("change")) %>%
+  separate(date, c("month", "year"), "/", convert = TRUE) %>%
+  separate(area, c("city", "state"), ",", convert = TRUE)
+cleaningdata
+
+```
+
+Let's look at only data from Abilene, TX, from 2000 until 2007 (due to great recession, we will not go further yet)
+
+```{r}
+cleaningdata2004plus <- cleaningdata %>%
+    filter(year >= 2004)
+cleaningdata2004plus
+cleaningdata2004to2007 <- cleaningdata2004plus %>%
+    filter(year <= 2007)
+cleaningdata2004to2007
+cleaningdata2004to2007Abilene <- cleaningdata2004to2007 %>%
+    filter(city == "Abilene")
+cleaningdata2004to2007Abilene
+```
+
+```{r}
+ggplot(cleaningdata2004to2007Abilene, aes(year + month/12, f1value)) + geom_col()
+```
+
+Here, we can see a slight trend upward in home value. Let's look at how many homes were built.
+
+```{r}
+ggplot(cleaningdata2004to2007Abilene, aes(year + month/12, f1units)) + geom_col()
+```
+
+Here, we can see relatively consistent seasonal increases in the number of homes built. We'll look more into that later. Now, let's compare this city with Bakersfield, CA.
+
+```{r}
+cleaningdata2004to2007Bakersfield <- cleaningdata2004to2007 %>%
+    filter(city == "Bakersfield")
+ggplot(cleaningdata2004to2007Bakersfield, aes(year + month/12, f1units)) + geom_col()
+```
+
+Here, we can see a dramatic downturn in homes being built leading up to the 2007 financial crash. Let's hone in on the 2006-2007 period.
+
+```{r}
+cleaningdata20062007Bakersfield <- cleaningdata2004to2007Bakersfield %>%
+    filter(year >= 2006)
+ggplot(cleaningdata20062007Bakersfield, aes(year + month/12, f1units)) + geom_col()
+```
+
+Here, we can see the downturn in homes being built in more detail. Now, let's look at their home prices.
+
+```{r}
+ggplot(cleaningdata20062007Bakersfield, aes(year + month/12, f1value)) + geom_col()
+```
+
+Still, even as construction on homes fell, we can see homes retained their value going into the market crash. We'll go more in detail to the market crash later.
+
+## Seasonal patterns
+
+First, we start by creating a histogram of one size family homes built by month.
+
+```{r}
+ggplot(cleaningdata, aes(month, f1units)) + geom_col()
+```
+
+We can see that there is more homes built in the warmer months.
+
+Now, let's track data from the first year available.
+
+```{r}
+ggplot(cleaningdata, aes(year + month/12, f1units)) + geom_col()
+```
+
+We get a messy plot with too much information. Let's convert data to just the year 2004.
+
+```{r}
+cleaningdata2004 <- cleaningdata %>%
+    filter(year == 2004) 
+cleaningdata2004
+```
+
+Now, let's see data for just 2004.
+
+```{r}
+ggplot(cleaningdata2004, aes(month, f1units)) + geom_col()
+```
+
+We can see the same trend: in the warmer months of 2004, more homes are built.
+
+```{r}
+ggplot(cleaningdata2004, aes(month, f1value)) + geom_col()
+```
+
+In the above graph, we see a slight increase in home values as the time approaches December. There is good reason for this: values increased through time, not only by year, but by month. This makes the later months have a slightly more aggregate value compared to earlier months. So, this effect is nothing to write home about.
+
+## Time trends/patterns:
+
+We've previously looked at trends leading up to the market crash. Now, let's hone in on the market crash.
+
+```{r}
+cleaningdata2007to2010 <- cleaningdata %>%
+    filter(year >= 2007 & year <= 2010)
+```
+
+```{r}
+ggplot(cleaningdata2007to2010, aes(year + month/12, f1value)) + geom_col()
+```
+
+Interestingly, 1 person home values were rather consistent from 2007 to 2011. Let's look at other types of homes.
+
+```{r}
+ggplot(cleaningdata2007to2010, aes(year + month/12, f24value)) + geom_col()
+```
+
+Here, we can see a noticeable decline in 2-4 person homes from 2007-2010.
+
+Let's finally look at 5 person homes.
+
+```{r}
+ggplot(cleaningdata2007to2010, aes(year + month/12, f5value)) + geom_col()
+```
+
+Here, we can see a even more drastic downturn in home prices. Now, let's look at homes being built, in all three types of homes.
+
+```{r}
+ggplot(cleaningdata2007to2010, aes(year + month/12, f1units)) + geom_col()
+```
+
+Here, we can see even though single person homes held their value, the number of homes built for one person decreased dramatically. Thus, even though prices were less or not effected, the single unit home market decreased.
+
+```{r}
+ggplot(cleaningdata2007to2010, aes(year + month/12, f24units)) + geom_col()
+```
+
+Homes built in this period for 2-4 people also decreased dramatically. Thus, the 2-4 family home market was hurt in two ways: both in decreased prices AND decreased number of homes being built.
+
+```{r}
+ggplot(cleaningdata2007to2010, aes(year + month/12, f5units)) + geom_col()
+```
+
+Despite the strange period of growth in 2008, 5 unit family homes being built also decreased after the onset of the great recession.
+
+## Population trends/patterns:
+
+One wonders if the populations in the South still have the increase in homes being built in the Summer months. Southern states typically have warmer Winters, so perhaps their year is more uniformly distributed in homes being built. Let's look back at data from 2004 to 2007, before the bubble burst.
+
+```{r}
+state2004to2007 <- cleaningdata2004to2007 %>% 
+   filter(str_detect(state, "TX"))
+ggplot(state2004to2007, aes(month, f5units)) + geom_col()
+```
+
+As expected, it looks like there may not be a huge difference in Summer months for Texas.
+
+## Other trends/patterns:
+
+Let's look further into the strange increase in 5 unit family homes built in 2008. First, let's look again at the graph that started this mystery.
+
+```{r}
+ggplot(cleaningdata2007to2010, aes(year + month/12, f5units)) + geom_col()
+```
+
+Let's just look at data from 2008.
+
+```{r}
+cleaningdata2009 <- cleaningdata %>%
+    filter(year == 2008)
+ggplot(cleaningdata2009, aes(year + month/12, f5units)) + geom_col()
+```
+
+We see this strange increase in the Summer of 2008. Let's see if this is particular to a given region.
+
+```{r}
+ggplot(cleaningdata2009, aes(x = year + month/12, y = f5units, group = state, color = state)) + geom_col()
+```
+
+This data is too messy to read. We need to narrow down the number of states in the chart.
+
+```{r}
+cleaningdata2009states <- cleaningdata2009 %>% 
+   filter(str_detect(state, "NY-NJ-PA"))
+```
+
+```{r}
+ggplot(cleaningdata2009states, aes(x = year + month/12, y = f5units, group = state, color = state)) + geom_col()
+```
+
+Because I couldn't get the OR command to work with str_detect, I found a bypass by filtering each state and looking at the graph. By filtering for NY-NJ-PA, we find the culprate of the dramatic increase. It's the New York, New Jersey, and Pennsylvania area. Next, let's group by city to find out if there's a specific city that either has an error problem, or had a dramatic increase in homes being built in the Summer of 2008.
+
+```{r}
+ggplot(cleaningdata2009states, aes(x = year + month/12, y = f5units, group = city, color = city)) + geom_col()
+```
+
+Unfortunately, the data stops here. The only city listed here is a vague "New York-Newark-Jersey City". Either there is an error in the data collection progress, or a huge development or list of developments happened for 5+ unit homes in the New York, Newark, and Jersey City area. My money's on an error with the data.
+
+## Specify some model predicting permits as a function of month
+
+First, let's see if there's a relationship between month and the smallest family home size.
+
+```{r}
+lm <- lm(f1units~month,data = cleaningdata2004to2007)
+lm
+```
+
+The intercept is very high, at 297. The month is negative, at -5.512.
+
+Let's look at a linear model for 2-4 size family homes.
+
+```{r}
+lm2 <- lm(f24units~month,data = cleaningdata2004to2007)
+lm2
+```
+
+Here, we have a much smaller intercept of 15, and a slightly negative model at -.1198.
+
+```{r}
+lm3 <- lm(f5units~month,data = cleaningdata2004to2007)
+lm3
+```
+
+Finally, for 5 unit family home statistics, we have a intercept of 72.97 and a slope of .5315. If we would add 2008 to this equation, we would see a different rate of increase and intercept due to the outlier month.
+
+Now let's see how our models performed.
+
+Of course, a linear relationship is not what the month-by-month outlook looks like. Let's once again look at our per-month data from before the bubble burst.
+
+```{r}
+ggplot(cleaningdata2004to2007, aes(month, f1units)) + geom_col()
+```
+
+Let's see if this pattern holds for 2-4 and 5 unit family homes.
+
+```{r}
+ggplot(cleaningdata2004to2007, aes(month, f24units)) + geom_col()
+```
+
+For 2-4 unit family homes, the pattern of warmer weather having more homes built is complimentary.
+
+```{r}
+ggplot(cleaningdata2004to2007, aes(month, f5units)) + geom_col()
+```
+
+For 5 unit family homes, it is hard to detect if the pattern still holds.
+
+So, our models did not do great, except for the 5 unit family homes. The linear models fail to capture the increase and then decrease of homes being built due to the increased homes built in the summer months for 1 unit and 2-4 unit family homes.
