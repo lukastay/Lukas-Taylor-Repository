@@ -6,6 +6,8 @@ This is a portfolio of selected projects I've done
 4) Machine Learning Classification - Grouping variables with machine learning
 5) R - Visualization Final - Final for class where I visualized a dataset
 6) Regression Vaccines And Death Rates - Regression studying the effects of vaccine rates (first dose, booster, and series) on county level death rates
-7) Sorting Sales By Style and Color - Sorting state-level data from Dilliards relational database by color, style, and size 
-8) Unfinished GIS Distance Project - Start of project where I use GIS information about visits to locations where we will use regression to see if shootings have an effect on visits to area
-9) Pythonreader - Continuously searches screencaptures for words inside a PDF document, then saves relavant PDF page as file
+7) STATA - 2SLS Regression - Two-Stage Least Squares regression code for STATA
+8) STATA - Regression Visualization - Visualizing multiple regressions
+9) Sorting Sales By Style and Color - Sorting state-level data from Dilliards relational database by color, style, and size 
+10) Unfinished GIS Distance Project - Start of project where I use GIS information about visits to locations where we will use regression to see if shootings have an effect on visits to area
+11) Pythonreader - Continuously searches screencaptures for words inside a PDF document, then saves relavant PDF page as file
