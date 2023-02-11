@@ -1,5 +1,5 @@
 # Lukas-Taylor-Repository
-This is a resume of selected projects I've done
+This is a portfolio of selected projects I've done
 1) Backwards Regression - Backwards selection for regression analysis
 2) Finding latlong from zips or strings - Function to find the latitude and longitude for zip codes or strings that containing a city but also other text
 3) Machine Learning - Truckers Quitting - Machine learning project for analyzing data for trucker employment retention. Uses machine learning to predict whether a trucker will quit and what factors predict quitting
