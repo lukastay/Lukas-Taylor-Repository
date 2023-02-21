@@ -11,3 +11,5 @@ This is a portfolio of selected projects I've done
 9) Sorting Sales By Style and Color - Sorting state-level data from Dilliards relational database by color, style, and size 
 10) Unfinished GIS Distance Project - Start of project where I use GIS information about visits to locations where we will use regression to see if shootings have an effect on visits to area
 11) Pythonreader - Continuously searches screencaptures for words inside a PDF document, then saves relavant PDF page as file
+
+NOTE: Much of these projects contain small snippets of code that is based off solutions found in forums like StackOverFlow.com. A big part of coding is learning from others who have paved the trail before your time.
