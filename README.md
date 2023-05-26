@@ -1,4 +1,4 @@
-# Lukas-Taylor-Repository
+# Lukas Taylor Portfolio
 
 Kaggle.com Awards:
 1) Given bronze metal for four notebooks
