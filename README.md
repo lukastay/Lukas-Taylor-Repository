@@ -6,7 +6,7 @@ Kaggle.com Awards:
 3) Top 20% in "House Prices - Advanced Regression Techniques" competition
 
 Top Projects:
-1) [Visualizing Supermarket Sales With Seaborn][https://www.kaggle.com/code/lukastaylor2/visualizing-supermarket-sales-with-seaborn] - Demonstrated strong data visualization skills with supermarket sales data
+1) [Visualizing Supermarket Sales With Seaborn](https://www.kaggle.com/code/lukastaylor2/visualizing-supermarket-sales-with-seaborn) - Demonstrated strong data visualization skills with supermarket sales data
 2) [Fatty Liver - Decision Tree Investigations]([url](https://www.kaggle.com/code/lukastaylor2/fatty-liver-decision-tree-investigations)) - Showed flaws in dataset for machine learning tools due to lack of healthy data for the elderly. Using decision trees, I showed how machine learning tools will make decisions based on false assumptions if there are such problems with the dataset. Also showed how undersampling can solve some problems with imbalanced data.
 3) [Regression Vaccines And Death Rates]([url](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Regression%20Vaccines%20And%20Death%20Rates.ipynb)) - Regression studying the effects of vaccine rates (first dose, booster, and series) on county level death rates
 4) [Pythonreader]([url](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/pythonreader.py)) - This project searches the user's screen for sentences inside a PDF document. If it finds words on your screen that match with words in the PDF document, it will save the relevant page of the PDF document in a seperate file.
