@@ -9,7 +9,6 @@ Top Projects:
 1) [Visualizing Supermarket Sales With Seaborn](https://www.kaggle.com/code/lukastaylor2/visualizing-supermarket-sales-with-seaborn) - Demonstrated strong data visualization skills with supermarket sales data (Bronze Metal)
 2) [Fatty Liver - Decision Tree Investigations](https://www.kaggle.com/code/lukastaylor2/fatty-liver-decision-tree-investigations) - Showed flaws in dataset for machine learning tools due to lack of healthy data for the elderly. Using decision trees, I showed how machine learning tools will make decisions based on false assumptions if there are such problems with the dataset. Also showed how undersampling can solve some problems with imbalanced data.
 3) [Regression Vaccines And Death Rates](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Regression%20Vaccines%20And%20Death%20Rates.ipynb) - Regression studying the effects of vaccine rates (first dose, booster, and series) on county level death rates
-4) [Pythonreader](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/pythonreader.py) - This project searches the user's screen for sentences inside a PDF document. If it finds words on your screen that match with words in the PDF document, it will save the relevant page of the PDF document in a seperate file.
 
 Kaggle.com Notebooks:
 
@@ -25,12 +24,13 @@ Kaggle.com Notebooks:
 
 
 This is a portfolio of selected mini-projects I've done
-1) [ Backwards Regression](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Backwards%20Regression.ipynb) - Backwards selection for regression analysis
-2) [ Finding latlong from zips or strings](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Finding%20latlong%20from%20zips%20or%20strings%20with%20locations%20in%20middle) - Function to find the latitude and longitude for zip codes or strings that are containing a city but also other text
-3) [ Machine Learning - Truckers Quitting](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Machine%20Learning%20-%20Truckers%20Quitting.ipynb) - Machine learning project for analyzing data for trucker employment retention. Uses machine learning to predict whether a trucker will quit and what factors predict quitting
-4) [Machine Learning Classification](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Machine%20Learning%20Classifications.py) - Grouping variables with machine learning
-5) [R - Visualization Final](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/R%20-%20Visualization%20Final.qmd) - Final for class where I visualized a dataset
-6) [STATA - 2SLS Regression](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/STATA%20-%202SLS%20Regression.do) - Two-Stage Least Squares regression code for STATA
-7) [STATA - Regression Visualization](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/STATA%20-%20Regression%20Visualization.do) - Visualizing multiple regressions
-8) [ Sorting Sales By Style and Color](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Sorting%20Sales%20By%20Style%20and%20Color.ipynb) - Sorting state-level data from Dilliards relational database by color, style, and size 
-9) [GIS Distance Project - Data Preprocessing](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/GIS%20Distance%20Project%20-%20Data%20Preprocessing.ipynb)- Start of project where I use GIS information about visits to locations where we will use regression to see if shootings have an effect on visits to area
+1) [Pythonreader](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/pythonreader.py) - This project searches the user's screen for sentences inside a PDF document. If it finds words on your screen that match with words in the PDF document, it will save the relevant page of the PDF document in a seperate file.
+2) [ Backwards Regression](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Backwards%20Regression.ipynb) - Backwards selection for regression analysis
+3) [ Finding latlong from zips or strings](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Finding%20latlong%20from%20zips%20or%20strings%20with%20locations%20in%20middle) - Function to find the latitude and longitude for zip codes or strings that are containing a city but also other text
+4) [ Machine Learning - Truckers Quitting](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Machine%20Learning%20-%20Truckers%20Quitting.ipynb) - Machine learning project for analyzing data for trucker employment retention. Uses machine learning to predict whether a trucker will quit and what factors predict quitting
+5) [Machine Learning Classification](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Machine%20Learning%20Classifications.py) - Grouping variables with machine learning
+6) [R - Visualization Final](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/R%20-%20Visualization%20Final.qmd) - Final for class where I visualized a dataset
+7) [STATA - 2SLS Regression](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/STATA%20-%202SLS%20Regression.do) - Two-Stage Least Squares regression code for STATA
+8) [STATA - Regression Visualization](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/STATA%20-%20Regression%20Visualization.do) - Visualizing multiple regressions
+9) [ Sorting Sales By Style and Color](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Sorting%20Sales%20By%20Style%20and%20Color.ipynb) - Sorting state-level data from Dilliards relational database by color, style, and size 
+10) [GIS Distance Project - Data Preprocessing](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/GIS%20Distance%20Project%20-%20Data%20Preprocessing.ipynb)- Start of project where I use GIS information about visits to locations where we will use regression to see if shootings have an effect on visits to area
