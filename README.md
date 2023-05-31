@@ -8,7 +8,7 @@ Kaggle.com Awards:
 Top Projects:
 1) [Visualizing Supermarket Sales With Seaborn](https://www.kaggle.com/code/lukastaylor2/visualizing-supermarket-sales-with-seaborn) - Demonstrated strong data visualization skills with supermarket sales data. (Bronze Metal)
 2) [Non Alcohol Fatty Liver Disease - Decision Tree Investigations](https://www.kaggle.com/code/lukastaylor2/fatty-liver-decision-tree-investigations) - Showed flaws in dataset for machine learning tools due to lack of healthy data for elderly individuals. Using decision trees, I showed how machine learning tools will make decisions based on false assumptions if there are such problems with the dataset. Also showed how undersampling can solve some problems with imbalanced data.
-3) [Regression Vaccines And Death Rates](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Regression%20Vaccines%20And%20Death%20Rates.ipynb) - Regression studying the effects of vaccine rates (first dose, booster, and series) on county level death rates.
+3) [Regression - Vaccines And Death Rates](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Regression%20Vaccines%20And%20Death%20Rates.ipynb) - Regression studying the effects of vaccine rates (first dose, booster, and series) on county level death rates.
 
 Kaggle.com Notebooks:
 
