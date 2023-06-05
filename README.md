@@ -1,6 +1,6 @@
 # Lukas Taylor Portfolio
 
-[Advanced Retail Analytics I Can Add To Your Firm:](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Advanced%20Retail%20Analyses.pdf)
+[Advanced Retail Analytics I Can Add To Your Firm:](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Advanced%20Retail%20Analyses.pdf
 
 Kaggle.com Awards:
 1) Earned bronze metal for four seperate notebooks
