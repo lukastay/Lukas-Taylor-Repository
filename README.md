@@ -13,6 +13,16 @@ Top Projects:
 3) [Non Alcohol Fatty Liver Disease - Decision Tree Investigations](https://www.kaggle.com/code/lukastaylor2/fatty-liver-decision-tree-investigations) - Showed flaws in dataset for machine learning tools due to lack of healthy data for elderly individuals. Using decision trees, I showed how machine learning tools will make decisions based on false assumptions if there are such problems with the dataset. Also showed how undersampling can solve some problems with imbalanced data.
 4) [Regression - Vaccines And Death Rates](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Regression%20Vaccines%20And%20Death%20Rates.ipynb) - Regression studying the effects of vaccine rates (first dose, booster, and series) on county level death rates.
 
+Custom Built Data Visualization Tools:
+
+1) [R Language: ggoutlierscatterplot Package]([https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Example%20Power%20BI%20Dashboard.pdf](https://github.com/lukastay/ggoutlierscatterplot/tree/main)) - Created R package that detects outliers in 2D space and displays them in a scatterplot.
+
+![outlier scatterplot example](https://github.com/lukastay/ggoutlierscatterplot/blob/main/plotexample.tiff?raw=true)
+  
+2) [Power BI: ScatterMatrix Custom Power BI Visual]([[https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Example%20Power%20BI%20Dashboard.pdf](https://github.com/lukastay/ggoutlierscatterplot/tree/main](https://github.com/lukastay/PowerBI-ScatterMatrix))) - Coded custom visual to create a scatterplot matrix visual in Power BI.
+
+![ScatterMatrix](https://i.imgur.com/acDeRMs.png)
+
 Kaggle.com Notebooks:
 
 1) [Titanic - Mass Testing Of Estimators](https://www.kaggle.com/code/lukastaylor2/titanic-mass-testing-of-estimators-v2) - This project leverages data on characteristics of people who survived the Titanic disaster to predict whether passengers with unknown data survived or did not survive. It mass-tests 20+ classifiers, and then tunes the hyperparamets of the best model. (Bronze metal)
