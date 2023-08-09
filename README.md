@@ -95,7 +95,9 @@
 8) [ Machine Learning - Truckers Quitting](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Machine%20Learning%20-%20Truckers%20Quitting.ipynb) - Machine learning project for analyzing data for trucker employment retention. Uses machine learning to predict whether a trucker will quit and what factors predict quitting
 
 ![truckers](images/truckers.png?raw=true)
-
+![truckers2](images/trucker_logit.png?raw=true)
+![truckers3](images/trucker_default.png?raw=true)
+![truckers4](images/trucker_default_chance.png?raw=true)
 
 8) [Machine Learning Classification](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Machine%20Learning%20Classifications.py) - Grouping variables with machine learning
 9) [R - Exploratory Data Analysis Using Only Bar Graphs](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/R%20-%20Visualization%20Final.qmd) - Challenged myself to find out as much as I could about the dataset using only bar plots and histograms. Found anomoly in the seasonality of the dataset and tracked it down to an outlier month using well-tuned bar plots to set me in the right direction.
