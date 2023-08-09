@@ -19,7 +19,7 @@ Custom-Built Data Visualization And Analysis Tools:
 
 ![outlier scatterplot allmethods example](https://github.com/lukastay/ggoutlierscatterplot/blob/main/plotexample.allmethods.tiff?raw=true)
   
-2) [Power BI: ScatterMatrix Custom Power BI Visual](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Example%20Power%20BI%20Dashboard.pdf) - Coded custom visual to create a scatterplot matrix visual in Power BI.
+2) [Power BI: ScatterMatrix Custom Power BI Visual](https://github.com/lukastay/PowerBI-ScatterMatrix) - Coded custom visual to create a scatterplot matrix visual in Power BI.
 
 ![ScatterMatrix](https://i.imgur.com/acDeRMs.png)
 
