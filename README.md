@@ -135,7 +135,7 @@ This project attempts to predict critical heat flux values. First, the project u
 
 <p align="center">
 
-<img src="images/heat_flux_models.png?raw=true" width="600">
+<img src="images/heat_flux.png?raw=true" width="1000">
 
 </p>
 
