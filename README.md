@@ -129,11 +129,7 @@ This project attempts to predict critical heat flux values. First, the project u
 
 </p>
 
-### 9) [House Prices - Catboost Hyperparameter Tuning For Top Accuracy Rating](https://www.kaggle.com/code/lukastaylor2/house-prices-catboost-hyperparameter-tune-12743)
-
-This model uses the "House Prices - Advanced Regression Techniques" dataset. For the competition associated with this dataset, we are supposed to predict house prices based on a variety of variables. After some preprocessing of the data, this journal tunes Catboost, a regression model.
-
-### 10) [Pakistan Houses - Testing Many Regressors, Find LGBM Is Best](https://www.kaggle.com/code/lukastaylor2/pakistan-houses-many-regressors-lgbm-best)
+### 9) [Pakistan Houses - Testing Many Regressors, Find LGBM Is Best](https://www.kaggle.com/code/lukastaylor2/pakistan-houses-many-regressors-lgbm-best)
 
 This project uses housing data from Pakistan to predict housing prices. It finds Light Gradient Boosting Machine to be the most predictive.
 
@@ -143,7 +139,7 @@ This project uses housing data from Pakistan to predict housing prices. It finds
 
 </p>
   
-### 11) [House Prices - Tensorflow Random Forest Automatic Hyperparameter Tuner](https://www.kaggle.com/code/lukastaylor2/house-prices-tensorflow-random-forest-autotuner)
+### 10) [House Prices - Tensorflow Random Forest Automatic Hyperparameter Tuner](https://www.kaggle.com/code/lukastaylor2/house-prices-tensorflow-random-forest-autotuner)
 
 This project uses the previvous housing prices dataset to tune Tensorflow Random Forest models.
 
@@ -153,7 +149,7 @@ This project uses the previvous housing prices dataset to tune Tensorflow Random
 
 </p>
   
-### 12) [Non Alcohol Fatty Liver Disease - Mass Classifier Testing And Undersampling](https://www.kaggle.com/code/lukastaylor2/fatty-liver-20-classifiers-92-74-undrsmpl) 
+### 11) [Non Alcohol Fatty Liver Disease - Mass Classifier Testing And Undersampling](https://www.kaggle.com/code/lukastaylor2/fatty-liver-20-classifiers-92-74-undrsmpl) 
 
 This data finds problems for inflated accuracy scores in the Non-alcohol fatty liver disease dataset due to problems with the dataset having much more data for people without the disease than with the disease. Then, it "undersamples" the data, which is where you remove certain parts of the data in order to make a more representative dataset. Finally, it re-evaluates classifier scores using the undersampled data. (Bronze metal)
 
@@ -163,7 +159,7 @@ This data finds problems for inflated accuracy scores in the Non-alcohol fatty l
 
 </p>
 
-### 13) [Power BI Dashboard On Sales Data](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Example%20Power%20BI%20Dashboard.pdf) 
+### 12) [Power BI Dashboard On Sales Data](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Example%20Power%20BI%20Dashboard.pdf) 
 
 Showed Power BI visualization and DAX skills using a Microsoft example data model
 
@@ -173,13 +169,13 @@ Showed Power BI visualization and DAX skills using a Microsoft example data mode
 
 </p>
    
-### 14) [Pythonreader - A python script that searches PDFs](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/pythonreader.py) 
+### 13) [Pythonreader - A python script that searches PDFs](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/pythonreader.py) 
 
 This project searches the user's screen for sentences inside a PDF document. If it finds words on your screen that match with words in the PDF document, it will save the relevant page of the PDF document in a seperate file.
 
 
    
-### 15) [STATA - 2SLS Regression On Settler Mortality](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/STATA%20-%202SLS%20Regression.do) 
+### 14) [STATA - 2SLS Regression On Settler Mortality](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/STATA%20-%202SLS%20Regression.do) 
 
 Two-Stage Least Squares regression code for STATA. Then, I visualize multiple regressions by year in STATA.
 
