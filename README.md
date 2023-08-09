@@ -7,10 +7,13 @@
 
 ## Top Kaggle Projects:
 1) [Non Alcohol Fatty Liver Disease - Decision Tree Investigations](https://www.kaggle.com/code/lukastaylor2/fatty-liver-decision-tree-investigations) - Showed flaws in dataset for machine learning tools due to lack of healthy data for elderly individuals. Using decision trees, I showed how machine learning tools will make decisions based on false assumptions if there are such problems with the dataset. Also showed how undersampling can solve some problems with imbalanced data.
-2) [Regression - Vaccines And Death Rates](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Regression%20Vaccines%20And%20Death%20Rates.ipynb) - Regression studying the effects of vaccine rates (first dose, booster, and series) on county level death rates.
-3) [Visualizing Supermarket Sales With Seaborn](https://www.kaggle.com/code/lukastaylor2/visualizing-supermarket-sales-with-seaborn) - Demonstrated strong data visualization skills with supermarket sales data. (Bronze Metal)
 
-![supermarket](https://github.com/lukastay/Lukas-Taylor-Repository/blob/master/photos/supermarket.png?raw=true)
+![fatty_liver_dr](https://github.com/lukastay/Lukas-Taylor-Repository/blob/master/images/fatty_liver_dt.png "Fatty Liver DT")
+   
+3) [Regression - Vaccines And Death Rates](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Regression%20Vaccines%20And%20Death%20Rates.ipynb) - Regression studying the effects of vaccine rates (first dose, booster, and series) on county level death rates.
+4) [Visualizing Supermarket Sales With Seaborn](https://www.kaggle.com/code/lukastaylor2/visualizing-supermarket-sales-with-seaborn) - Demonstrated strong data visualization skills with supermarket sales data. (Bronze Metal)
+
+![supermarket_graph](https://github.com/lukastay/Lukas-Taylor-Repository/blob/master/images/supermarket.png?raw=true)
 
 
 ## Custom-Built Data Visualization And Analysis Tools:
@@ -50,31 +53,35 @@
 
 4) [ Heat Flux - Miceforest And Pycaret](https://www.kaggle.com/code/lukastaylor2/heat-flux-miceforest-and-pycaret) - This project attempts to predict critical heat flux values. First, the project uses feature imputation using Miceforest, which is a way of dealing with missing data by guessing variable values based on similar data with known values. Secondly, it tests 20+ regression techniques to predict heat flux values and tunes hyperparameters for the best regression model.
 
-![heat_flux_models](https://github.com/lukastay/Lukas-Taylor-Repository/blob/master/photos/heat_flux_models.png?raw=true)
+![heat_flux_models](https://github.com/lukastay/Lukas-Taylor-Repository/blob/master/images/heat_flux_models.png?raw=true)
 
 6) [House Prices - Catboost Hyperparameter Tune .12743](https://www.kaggle.com/code/lukastaylor2/house-prices-catboost-hyperparameter-tune-12743) - This model uses the "House Prices - Advanced Regression Techniques" dataset. For the competition associated with this dataset, we are supposed to predict house prices based on a variety of variables. After some preprocessing of the data, this journal tunes Catboost, a regression model. 
 7) [Pakistan Houses - Many Regressors - LGBM Best](https://www.kaggle.com/code/lukastaylor2/pakistan-houses-many-regressors-lgbm-best) - This project uses housing data from Pakistan to predict housing prices. It finds Light Gradient Boosting Machine to be the most predictive.
 
-![pakistan_houses](https://github.com/lukastay/Lukas-Taylor-Repository/blob/master/photos/pakistan_houses.png?raw=true)
+![pakistan_houses](https://github.com/lukastay/Lukas-Taylor-Repository/blob/master/images/pakistan_houses.png?raw=true)
   
 9) [House Prices - Tensorflow Random Forest Autotuner](https://www.kaggle.com/code/lukastaylor2/house-prices-tensorflow-random-forest-autotuner) - This project uses the previvous housing prices dataset to tune Tensorflow Random Forest models.
 
-![house_prices_tf](https://github.com/lukastay/Lukas-Taylor-Repository/blob/master/photos/house_prices_tf.png?raw=true)
+![house_prices_tf]([https://github.com/lukastay/Lukas-Taylor-Repository/blob/master/images/house_prices_tf.png?raw=true)
   
 11) [Fatty Liver - 20+ Classifiers - 92%, 74% Undersample](https://www.kaggle.com/code/lukastaylor2/fatty-liver-20-classifiers-92-74-undrsmpl) - This data finds problems for inflated accuracy scores in the Non-alcohol fatty liver disease dataset due to problems with the dataset having much more data for people without the disease than with the disease. Then, it "undersamples" the data, which is where you remove certain parts of the data in order to make a more representative dataset. Finally, it re-evaluates classifier scores using the undersampled data. (Bronze metal)
 
-![fatty_liver](https://github.com/lukastay/Lukas-Taylor-Repository/blob/master/photos/fatty_liver.png?raw=true)
+![fatty_liver](https://github.com/lukastay/Lukas-Taylor-Repository/blob/master/images/fatty_liver.png?raw=true)
 
 
 ##Other Assorted Works
 1) [Power BI Dashboard On Sales Data](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Example%20Power%20BI%20Dashboard.pdf) - Showed Power BI visualization and DAX skills using a Microsoft example data model
-2) [Pythonreader](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/pythonreader.py) - This project searches the user's screen for sentences inside a PDF document. If it finds words on your screen that match with words in the PDF document, it will save the relevant page of the PDF document in a seperate file.
-3) [ Backwards Regression](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Backwards%20Regression.ipynb) - Backwards selection for regression analysis. Backwards selection chooses variables to use in a regression by testing which variables, when left out of a regression, raise the predictability of the model.
-4) [ Finding latlong from zips or strings](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Finding%20latlong%20from%20zips%20or%20strings%20with%20locations%20in%20middle) - Function to find the latitude and longitude for zip codes or strings that are containing a city but also other text
-5) [ Machine Learning - Truckers Quitting](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Machine%20Learning%20-%20Truckers%20Quitting.ipynb) - Machine learning project for analyzing data for trucker employment retention. Uses machine learning to predict whether a trucker will quit and what factors predict quitting
-6) [Machine Learning Classification](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Machine%20Learning%20Classifications.py) - Grouping variables with machine learning
-7) [R - Visualization Final](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/R%20-%20Visualization%20Final.qmd) - Final for class where I visualized a dataset
-8) [STATA - 2SLS Regression](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/STATA%20-%202SLS%20Regression.do) - Two-Stage Least Squares regression code for STATA
-9) [STATA - Regression Visualization](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/STATA%20-%20Regression%20Visualization.do) - Visualizing multiple regressions
-10) [ Sorting Sales By Style and Color](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Sorting%20Sales%20By%20Style%20and%20Color.ipynb) - Sorting state-level data from Dilliards relational database by color, style, and size 
+
+![power_bi](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/images/power_bi_ex.png?raw=true)
+
+   
+4) [Pythonreader](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/pythonreader.py) - This project searches the user's screen for sentences inside a PDF document. If it finds words on your screen that match with words in the PDF document, it will save the relevant page of the PDF document in a seperate file.
+5) [ Backwards Regression](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Backwards%20Regression.ipynb) - Backwards selection for regression analysis. Backwards selection chooses variables to use in a regression by testing which variables, when left out of a regression, raise the predictability of the model.
+6) [ Finding latlong from zips or strings](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Finding%20latlong%20from%20zips%20or%20strings%20with%20locations%20in%20middle) - Function to find the latitude and longitude for zip codes or strings that are containing a city but also other text
+7) [ Machine Learning - Truckers Quitting](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Machine%20Learning%20-%20Truckers%20Quitting.ipynb) - Machine learning project for analyzing data for trucker employment retention. Uses machine learning to predict whether a trucker will quit and what factors predict quitting
+8) [Machine Learning Classification](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Machine%20Learning%20Classifications.py) - Grouping variables with machine learning
+9) [R - Visualization Final](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/R%20-%20Visualization%20Final.qmd) - Final for class where I visualized a dataset
+10) [STATA - 2SLS Regression](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/STATA%20-%202SLS%20Regression.do) - Two-Stage Least Squares regression code for STATA
+11) [STATA - Regression Visualization](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/STATA%20-%20Regression%20Visualization.do) - Visualizing multiple regressions
+12) [ Sorting Sales By Style and Color](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Sorting%20Sales%20By%20Style%20and%20Color.ipynb) - Sorting state-level data from Dilliards relational database by color, style, and size 
 101) [GIS Distance Project - Data Preprocessing](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/GIS%20Distance%20Project%20-%20Data%20Preprocessing.ipynb)- Start of project where I use GIS information about visits to locations where we will use regression to see if shootings have an effect on visits to area
