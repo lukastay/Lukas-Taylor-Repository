@@ -85,7 +85,7 @@ This project leverages data on characteristics of people who survived the Titani
 
 <p align="center">
 
-<img src="images/titanic_age.png?raw=true" width="600">
+<img src="images/titanic_real.png?raw=true" width="1000">
 
 </p>
    
@@ -185,8 +185,6 @@ Two-Stage Least Squares regression code for STATA. Then, I visualize multiple re
 
 <p align="center">
 
-<img src="images/settlers.png?raw=true" width="600">
-
-<img src="images/stata_byyear.png?raw=true" width="600">
+<img src="images/stata_real.png?raw=true" width="1000">
 
 </p>
