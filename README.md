@@ -102,7 +102,10 @@
 ![truckers6](images/truckers_features.png?raw=true)
 
 8) [R - Exploratory Data Analysis Using Only Bar Graphs](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/R%20-%20Visualization%20Final.qmd) - Challenged myself to find out as much as I could about the dataset using only bar plots and histograms. Found anomoly in the seasonality of the dataset and tracked it down to an outlier month using well-tuned bar plots to set me in the right direction.
-9) [STATA - 2SLS Regression On Settler Mortality](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/STATA%20-%202SLS%20Regression.do) - Two-Stage Least Squares regression code for STATA
+
+![vizfinal](images/vizfinal.png?raw=true)
+   
+10) [STATA - 2SLS Regression On Settler Mortality](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/STATA%20-%202SLS%20Regression.do) - Two-Stage Least Squares regression code for STATA
 
 ![settle](images/settlers.png?raw=true)
 
