@@ -55,8 +55,6 @@ Regression studying the effects of vaccine rates (first dose, booster, and serie
 
 <p align="center">
 
-<img src="images/vaccine_lasso.png?raw=true" width="600">
-
 <img src="images/vaccine_aic_bic.png?raw=true" width="600">
 
 <img src="images/vaccine_ols.png?raw=true" width="600">
@@ -92,7 +90,7 @@ This project leverages data on characteristics of people who survived the Titani
 
 <p align="center">
 
-<img src="images/titanic_class_test.png?raw=true" width="600">
+<img src="images/titanic_age.png?raw=true" width="600">
 
 </p>
    
