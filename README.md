@@ -41,6 +41,10 @@ Kaggle.com Notebooks:
 ![dematology_dt](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/images/dermatology_dt.png?raw=true)
    
 3) [Diabetes - 20+ Classifiers - 97%, 91% Undersample](https://www.kaggle.com/code/lukastaylor2/diabetes-20-classifiers-97-91-undrsmpl) - This project is about predicting whether a person has diabetes based on factors like gender, age, BMI, and others. first does exploratory data analysis and data visualizations. Then, it performs LASSO, a way of creating models with only the most significant variables. Next, I mass-test many scikit learn classifiers and tune the hyperparameters of the highest scoring classifier. (Bronze metal)
+
+![diabetes_lasso](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/images/diabetes_lasso.png?raw=true)
+
+
 4) [ Heat Flux - Miceforest And Pycaret](https://www.kaggle.com/code/lukastaylor2/heat-flux-miceforest-and-pycaret) - This project attempts to predict critical heat flux values. First, the project uses feature imputation using Miceforest, which is a way of dealing with missing data by guessing variable values based on similar data with known values. Secondly, it tests 20+ regression techniques to predict heat flux values and tunes hyperparameters for the best regression model.
 5) [House Prices - Catboost Hyperparameter Tune .12743](https://www.kaggle.com/code/lukastaylor2/house-prices-catboost-hyperparameter-tune-12743) - This model uses the "House Prices - Advanced Regression Techniques" dataset. For the competition associated with this dataset, we are supposed to predict house prices based on a variety of variables. After some preprocessing of the data, this journal tunes Catboost, a regression model. 
 6) [Pakistan Houses - Many Regressors - LGBM Best](https://www.kaggle.com/code/lukastaylor2/pakistan-houses-many-regressors-lgbm-best) - This project uses housing data from Pakistan to predict housing prices. It finds Light Gradient Boosting Machine to be the most predictive.
