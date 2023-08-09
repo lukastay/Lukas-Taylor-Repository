@@ -13,11 +13,7 @@ Created R package that detects outliers in 2D space and displays them in a scatt
 
 <p align="center">
 
-<img src="https://github.com/lukastay/ggoutlierscatterplot/blob/main/plotexample.tiff?raw=true" width="48">
-
-![outlier scatterplot example](https://github.com/lukastay/ggoutlierscatterplot/blob/main/plotexample.tiff?raw=true)
-
-![outlier scatterplot allmethods example](https://github.com/lukastay/ggoutlierscatterplot/blob/main/plotexample.allmethods.tiff?raw=true)
+<img src="https://github.com/lukastay/ggoutlierscatterplot/blob/main/plotexample.allmethods.tiff?raw=true" width="800">
 
 </p>
   
@@ -27,7 +23,7 @@ Coded custom visual to create a scatterplot matrix visual in Power BI.
 
 <p align="center">
 
-![ScatterMatrix](https://i.imgur.com/acDeRMs.png)
+<img src="https://i.imgur.com/acDeRMs.png" width="800">
 
 </p>
 
@@ -37,7 +33,7 @@ R package built for visualizing and preparing TURF analysis, where combinations 
 
 <p align="center">
 
-![Turfcata Waterfall Chart](waterfall.png) 
+<img src="images/waterfall.png" width="800">
 
 </p>
 
@@ -47,9 +43,7 @@ R package built to syncronize different data visualization themes across multipl
 
 <p align="center">
 
-![autoallthemes](https://github.com/lukastay/ggautothemes/blob/master/photos/showcase.gif?raw=true)
-
-![choose_theme](https://github.com/lukastay/ggautothemes/blob/master/photos/ggautothemes_exported_graph.tiff?raw=true)
+<img src="https://github.com/lukastay/ggautothemes/blob/master/photos/showcase.gif?raw=true" width="600">
 
 </p>
 
@@ -61,9 +55,11 @@ Regression studying the effects of vaccine rates (first dose, booster, and serie
 
 <p align="center">
 
-![vaccine_lasso](images/vaccine_lasso.png?raw=true)
-![vaccine_aic_bic](images/vaccine_aic_bic.png?raw=true)
-![vaccine_ols](images/vaccine_ols.png?raw=true)
+<img src="images/vaccine_lasso.png?raw=true" width="600">
+
+<img src="images/vaccine_aic_bic.png?raw=true" width="600">
+
+<img src="images/vaccine_ols.png?raw=true" width="600">
 
 </p>
    
@@ -83,8 +79,8 @@ Demonstrated strong data visualization skills with supermarket sales data. (Bron
 
 <p align="center">
 
-![supermarket_graph](images/supermarket.png?raw=true)
-![supermarket_graph2](images/supermarket2.png?raw=true)
+<img src="images/supermarket.png?raw=true" width="600">
+<img src="images/supermarket2.png?raw=true" width="600">
 
 </p>
 
@@ -96,7 +92,7 @@ This project leverages data on characteristics of people who survived the Titani
 
 <p align="center">
 
-![titanic_test](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/images/titanic_class_test.png?raw=true)
+<img src="images/titanic_class_test.png?raw=true" width="600">
 
 </p>
    
@@ -106,7 +102,7 @@ Using decision tree analysis, this journal showed how low in-class variance for 
 
 <p align="center">
 
-![dematology_dt](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/images/dermatology_dt.png?raw=true)
+<img src="images/dermatology_dt.png?raw=true" width="600">
 
 </p>
    
@@ -116,7 +112,7 @@ This project is about predicting whether a person has diabetes based on factors 
 
 <p align="center">
 
-![diabetes_lasso](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/images/diabetes_lasso.png?raw=true)
+<img src="images/diabetes_lasso.png?raw=true" width="600">
 
 </p>
 
@@ -126,7 +122,7 @@ This project attempts to predict critical heat flux values. First, the project u
 
 <p align="center">
 
-![heat_flux_models](images/heat_flux_models.png?raw=true)
+<img src="images/heat_flux_models.png?raw=true" width="600">
 
 </p>
 
@@ -136,7 +132,7 @@ This model uses the "House Prices - Advanced Regression Techniques" dataset. For
 
 <p align="center">
 
-![houses](images/house_prices.png?raw=true)
+<img src="images/house_prices.png?raw=true" width="300">
 
 </p>
 
@@ -146,7 +142,7 @@ This project uses housing data from Pakistan to predict housing prices. It finds
 
 <p align="center">
 
-![pakistan_houses](images/pakistan_houses.png?raw=true)
+<img src="images/pakistan_houses.png?raw=true" width="600">
 
 </p>
   
@@ -156,7 +152,7 @@ This project uses the previvous housing prices dataset to tune Tensorflow Random
 
 <p align="center">
 
-![house_prices](images/house_prices_tf.png?raw=true)
+<img src="images/house_prices_tf.png?raw=true" width="600">
 
 </p>
   
@@ -166,7 +162,7 @@ This data finds problems for inflated accuracy scores in the Non-alcohol fatty l
 
 <p align="center">
 
-![fatty_liver](images/fatty_liver.png?raw=true)
+<img src="images/fatty_liver.png?raw=true" width="600">
 
 </p>
 
@@ -177,7 +173,7 @@ Showed Power BI visualization and DAX skills using a Microsoft example data mode
 
 <p align="center">
 
-![power_bi](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/images/power_bi_ex.png?raw=true)
+<img src="images/power_bi_ex.png?raw=true" width="600">
 
 </p>
    
@@ -191,7 +187,7 @@ Backwards selection for regression analysis. Backwards selection chooses variabl
 
 <p align="center">
 
-![back_bic](images/backwards_bic.png?raw=true)
+<img src="images/backwards_bic.png?raw=true" width="600">
 
 </p>
    
@@ -201,7 +197,7 @@ Two-Stage Least Squares regression code for STATA
 
 <p align="center">
 
-![settle](images/settlers.png?raw=true)
+<img src="images/settlers.png?raw=true" width="600">
 
 </p>
 
@@ -211,6 +207,6 @@ Visualizing multiple regressions
 
 <p align="center">
 
-![byyear](images/stata_byyear.png?raw=true)
+<img src="images/stata_byyear.png?raw=true" width="600">
 
 </p>
