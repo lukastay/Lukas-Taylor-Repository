@@ -132,7 +132,7 @@ This model uses the "House Prices - Advanced Regression Techniques" dataset. For
 
 <p align="center">
 
-<img src="house_prices.png?raw=true" width="600">
+<img src="images/house_prices.png?raw=true" width="300">
 
 </p>
 
@@ -162,7 +162,7 @@ This data finds problems for inflated accuracy scores in the Non-alcohol fatty l
 
 <p align="center">
 
-<img src="fatty_liver.png?raw=true" width="600">
+<img src="images/fatty_liver.png?raw=true" width="600">
 
 </p>
 
@@ -187,7 +187,7 @@ Backwards selection for regression analysis. Backwards selection chooses variabl
 
 <p align="center">
 
-<img src="images/backwards_bic.png?raw=true">
+<img src="images/backwards_bic.png?raw=true" width="600">
 
 </p>
    
@@ -197,7 +197,7 @@ Two-Stage Least Squares regression code for STATA
 
 <p align="center">
 
-<img src="images/settlers.png?raw=true">
+<img src="images/settlers.png?raw=true" width="600">
 
 </p>
 
@@ -207,6 +207,6 @@ Visualizing multiple regressions
 
 <p align="center">
 
-<img src="images/stata_byyear.png?raw=true">
+<img src="images/stata_byyear.png?raw=true" width="600">
 
 </p>
