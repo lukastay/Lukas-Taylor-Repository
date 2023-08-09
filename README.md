@@ -39,7 +39,7 @@ R package built for visualizing and preparing TURF analysis, where combinations 
 
 ### 4) [R Language: ggautothemes](https://github.com/lukastay/ggautothemes/blob/master/README.md)
 
-R package built to syncronize different data visualization themes across multiple packages, and allow users to quickly see how their plots will look like. This package uses R sleep functions to create a "slideshow" of sorts, where users can see their custom data visualization in a wide variety of themes. After a user selects a theme, they can output it to a professional grade high quality raster image file.
+R package built to synchronize different data visualization themes across multiple packages, and allow users to quickly see how their plots could be visualized. This package uses R sleep functions to create a "slideshow" of sorts, where users can see their custom data visualization in a wide variety of themes. After a user selects a theme, they can output it to a professional grade high quality raster image file.
 
 <p align="center">
 
@@ -143,13 +143,13 @@ This project attempts to predict critical heat flux values. First, the project u
 
 This project uses housing data from Pakistan to predict housing prices. It finds Light Gradient Boosting Machine to be the most predictive.
   
-### 11) [House Prices Dataset - Tensorflow Random Forest Automatic Hyperparameter Tuner Grants Me A Competitive Score](https://www.kaggle.com/code/lukastaylor2/house-prices-tensorflow-random-forest-autotuner)
+### 11) [House Prices Dataset - Experiments In Visualizing Machine Learning Feature Space](https://www.kaggle.com/code/lukastaylor2/housing-prices-ml-visualization)
 
-This project uses the previvous housing prices dataset to tune Tensorflow Random Forest models.
+This project uses tensorflow to visualize both random forest and decision tree machine learning methods.
 
 <p align="center">
 
-<img src="images/house_prices_tf.png?raw=true" width="500">
+<img src="images/housing.png?raw=true" width="1000">
 
 </p>
   
