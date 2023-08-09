@@ -105,7 +105,7 @@ Backwards selection for regression analysis. Backwards selection chooses variabl
 
 <p align="center">
 
-<img src="images/backwards_bic.png?raw=true" width="600">
+<img src="images/backwards_bic.png?raw=true" width="1000">
 
 </p>
    
@@ -115,7 +115,7 @@ This project is about predicting whether a person has diabetes based on factors 
 
 <p align="center">
 
-<img src="images/diabetes_lasso.png?raw=true" width="600">
+<img src="images/diabetes_lasso.png?raw=true" width="500">
 
 </p>
 
@@ -169,7 +169,7 @@ Showed Power BI visualization and DAX skills using a Microsoft example data mode
 
 <p align="center">
 
-<img src="images/power_bi_ex.png?raw=true" width="600">
+<img src="images/power_bi_ex.png?raw=true" width="900">
 
 </p>
    
