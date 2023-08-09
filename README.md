@@ -22,9 +22,13 @@ Custom-Built Data Visualization And Analysis Tools:
 
 ![ScatterMatrix](https://i.imgur.com/acDeRMs.png)
 
-2) [R Language: turfcata Package](https://github.com/lukastay/turfcata/tree/master) - R package built for visualizing and preparing TURF analysis, where combinations of marketing strategies based on "Check All That Apply" survey questions are evaluated. Advanced tree searching methods are used to hunt down combinations of marketing strategies that best suit a wide variety of individual interests.
+3) [R Language: turfcata Package](https://github.com/lukastay/turfcata/tree/master) - R package built for visualizing and preparing TURF analysis, where combinations of marketing strategies based on "Check All That Apply" survey questions are evaluated. Advanced tree searching methods are used to hunt down combinations of marketing strategies that best suit a wide variety of individual interests.
 
 ![Turfcata Waterfall Chart](waterfall.png) 
+
+4) [R Language: ggautothemes](https://github.com/lukastay/ggautothemes/blob/master/README.md) - R package built to syncronize different data visualization themes across multiple packages, and allow users to quickly see how their plots will look like. This package uses R sleep functions to create a "slideshow" of sorts, where users can see their custom data visualization in a wide variety of themes. After a user selects a theme, they can output it to a professional grade high quality raster image file.
+
+![autoallthemes](https://github.com/lukastay/ggautothemes/blob/master/photos/showcase.gif?raw=true)
 
 Kaggle.com Notebooks:
 
