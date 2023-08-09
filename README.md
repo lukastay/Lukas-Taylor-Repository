@@ -92,7 +92,7 @@
 ![back_bic](images/backwards_bic.png?raw=true)
 
 7) [ Finding latlong from zips or strings](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Finding%20latlong%20from%20zips%20or%20strings%20with%20locations%20in%20middle) - Function to find the latitude and longitude for zip codes or strings that are containing a city but also other text
-8) [ Machine Learning - Truckers Quitting](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Machine%20Learning%20-%20Truckers%20Quitting.ipynb) - Machine learning project for analyzing data for trucker employment retention. Uses machine learning to predict whether a trucker will quit and what factors predict quitting
+8) [Various Machine Learning Methods And Datasets](https://www.kaggle.com/lukastaylor2/machine-learning-methods-across-datasets) - Machine learning project for analyzing data for trucker employment retention. Uses machine learning to predict whether a trucker will quit and what factors predict quitting
 
 ![truckers](images/truckers.png?raw=true)
 ![truckers2](images/trucker_logit.png?raw=true)
