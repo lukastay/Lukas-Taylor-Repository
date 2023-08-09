@@ -57,6 +57,8 @@ Regression studying the effects of vaccine rates (first dose, booster, and serie
 
 <img src="images/vaccines_real2.png?raw=true" width="1000">
 
+<img src="images/vaccine_cluster.png?raw=true" width="1200">
+
 </p>
    
 ### 2) [Non Alcohol Fatty Liver Disease Dataset - Decision Tree Investigations](https://www.kaggle.com/code/lukastaylor2/fatty-liver-decision-tree-investigations)
