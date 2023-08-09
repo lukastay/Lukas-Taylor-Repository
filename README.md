@@ -5,24 +5,6 @@
 2) .002272 RMSE away from first place on "Feature Imputation with a Heat Flux Dataset" competition
 3) Top 20% in "House Prices - Advanced Regression Techniques" competition
 
-## Selected Data Science Investigations:
-
-1) [Regression - Vaccines And Death Rates](https://www.kaggle.com/lukastaylor2/vaccine-and-county-death-rates) - Regression studying the effects of vaccine rates (first dose, booster, and series) on county level death rates.
-
-![vaccine_lasso](images/vaccine_lasso.png?raw=true)
-![vaccine_aic_bic](images/vaccine_aic_bic.png?raw=true)
-![vaccine_ols](images/vaccine_ols.png?raw=true)
-   
-2) [Non Alcohol Fatty Liver Disease - Decision Tree Investigations](https://www.kaggle.com/code/lukastaylor2/fatty-liver-decision-tree-investigations) - Showed flaws in dataset for machine learning tools due to lack of healthy data for elderly individuals. Using decision trees, I showed how machine learning tools will make decisions based on false assumptions if there are such problems with the dataset. Also showed how undersampling can solve some problems with imbalanced data.
-
-![fatty_liver](images/fatty_liver_dt.png?raw=true)
-
-3) [Visualizing Supermarket Sales With Seaborn](https://www.kaggle.com/code/lukastaylor2/visualizing-supermarket-sales-with-seaborn) - Demonstrated strong data visualization skills with supermarket sales data. (Bronze Metal)
-
-![supermarket_graph](images/supermarket.png?raw=true)
-![supermarket_graph2](images/supermarket2.png?raw=true)
-
-
 ## Custom-Built Data Visualization And Analysis Tools:
 
 1) [R Language: ggoutlierscatterplot Package](https://github.com/lukastay/ggoutlierscatterplot) - Created R package that detects outliers in 2D space and displays them in a scatterplot.
@@ -44,6 +26,23 @@
 ![autoallthemes](https://github.com/lukastay/ggautothemes/blob/master/photos/showcase.gif?raw=true)
 
 ![choose_theme](https://github.com/lukastay/ggautothemes/blob/master/photos/ggautothemes_exported_graph.tiff?raw=true)
+
+## Selected Data Science Investigations:
+
+1) [Regression - Vaccines And Death Rates](https://www.kaggle.com/lukastaylor2/vaccine-and-county-death-rates) - Regression studying the effects of vaccine rates (first dose, booster, and series) on county level death rates.
+
+![vaccine_lasso](images/vaccine_lasso.png?raw=true)
+![vaccine_aic_bic](images/vaccine_aic_bic.png?raw=true)
+![vaccine_ols](images/vaccine_ols.png?raw=true)
+   
+2) [Non Alcohol Fatty Liver Disease - Decision Tree Investigations](https://www.kaggle.com/code/lukastaylor2/fatty-liver-decision-tree-investigations) - Showed flaws in dataset for machine learning tools due to lack of healthy data for elderly individuals. Using decision trees, I showed how machine learning tools will make decisions based on false assumptions if there are such problems with the dataset. Also showed how undersampling can solve some problems with imbalanced data.
+
+![fatty_liver](images/fatty_liver_dt.png?raw=true)
+
+3) [Visualizing Supermarket Sales With Seaborn](https://www.kaggle.com/code/lukastaylor2/visualizing-supermarket-sales-with-seaborn) - Demonstrated strong data visualization skills with supermarket sales data. (Bronze Metal)
+
+![supermarket_graph](images/supermarket.png?raw=true)
+![supermarket_graph2](images/supermarket2.png?raw=true)
 
 ## Kaggle.com Notebooks:
 
