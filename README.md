@@ -13,6 +13,8 @@ Created R package that detects outliers in 2D space and displays them in a scatt
 
 <p align="center">
 
+<img src="https://github.com/lukastay/ggoutlierscatterplot/blob/main/plotexample.tiff?raw=true" width="48">
+
 ![outlier scatterplot example](https://github.com/lukastay/ggoutlierscatterplot/blob/main/plotexample.tiff?raw=true)
 
 ![outlier scatterplot allmethods example](https://github.com/lukastay/ggoutlierscatterplot/blob/main/plotexample.allmethods.tiff?raw=true)
