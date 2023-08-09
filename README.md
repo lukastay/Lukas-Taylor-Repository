@@ -42,6 +42,8 @@
 
 ![autoallthemes](https://github.com/lukastay/ggautothemes/blob/master/photos/showcase.gif?raw=true)
 
+![choose_theme](https://github.com/lukastay/ggautothemes/blob/master/photos/ggautothemes_exported_graph.tiff?raw=true)
+
 ## Kaggle.com Notebooks:
 
 1) [Titanic - Mass Testing Of Estimators](https://www.kaggle.com/code/lukastaylor2/titanic-mass-testing-of-estimators-v2) - This project leverages data on characteristics of people who survived the Titanic disaster to predict whether passengers with unknown data survived or did not survive. It mass-tests 20+ classifiers, and then tunes the hyperparamets of the best model. (Bronze metal)
