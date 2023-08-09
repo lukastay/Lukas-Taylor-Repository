@@ -11,9 +11,13 @@
 
 Created R package that detects outliers in 2D space and displays them in a scatterplot.
 
+<p align="center">
+
 ![outlier scatterplot example](https://github.com/lukastay/ggoutlierscatterplot/blob/main/plotexample.tiff?raw=true)
 
 ![outlier scatterplot allmethods example](https://github.com/lukastay/ggoutlierscatterplot/blob/main/plotexample.allmethods.tiff?raw=true)
+
+</p>
   
 ### 2) [Power BI: ScatterMatrix Custom Power BI Visual](https://github.com/lukastay/PowerBI-ScatterMatrix) 
 
