@@ -135,7 +135,7 @@ This project attempts to predict critical heat flux values. First, the project u
 
 <p align="center">
 
-<img src="images/heat_flux_models.png?raw=true" width="600">
+<img src="images/heat_flux.png?raw=true" width="1000">
 
 </p>
 
@@ -143,7 +143,7 @@ This project attempts to predict critical heat flux values. First, the project u
 
 This project uses housing data from Pakistan to predict housing prices. It finds Light Gradient Boosting Machine to be the most predictive.
   
-### 11) [House Prices Dataset - Tensorflow Random Forest Automatic Hyperparameter Tuner](https://www.kaggle.com/code/lukastaylor2/house-prices-tensorflow-random-forest-autotuner)
+### 11) [House Prices Dataset - Tensorflow Random Forest Automatic Hyperparameter Tuner Grants Me A Competitive Score](https://www.kaggle.com/code/lukastaylor2/house-prices-tensorflow-random-forest-autotuner)
 
 This project uses the previvous housing prices dataset to tune Tensorflow Random Forest models.
 
