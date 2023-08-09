@@ -25,7 +25,7 @@ Custom Built Data Visualization Tools:
 
 2) [R Language: turfcata Package](https://github.com/lukastay/turfcata/tree/master) - R package built for visualizing and preparing TURF analysis, where combinations of marketing strategies based on "Check All That Apply" survey questions are evaluated. Advanced tree searching methods are used to hunt down combinations of marketing strategies that best suit a wide variety of individual interests.
 
-![Turfcata Waterfall Chart](https://github.com/lukastay/turfcata/blob/main/waterfall.tiff?raw=true) 
+![Turfcata Waterfall Chart](waterfall.png) 
 
 Kaggle.com Notebooks:
 
