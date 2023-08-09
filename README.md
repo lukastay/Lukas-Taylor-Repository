@@ -5,7 +5,7 @@ Kaggle.com Awards:
 2) .002272 RMSE away from first place on "Feature Imputation with a Heat Flux Dataset" competition
 3) Top 20% in "House Prices - Advanced Regression Techniques" competition
 
-Top Projects:
+Top Kaggle Projects:
 1) [Power BI Dashboard On Sales Data](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Example%20Power%20BI%20Dashboard.pdf) - Showed Power BI visualization and DAX skills using a Microsoft example data model
 2) [Visualizing Supermarket Sales With Seaborn](https://www.kaggle.com/code/lukastaylor2/visualizing-supermarket-sales-with-seaborn) - Demonstrated strong data visualization skills with supermarket sales data. (Bronze Metal)
 3) [Non Alcohol Fatty Liver Disease - Decision Tree Investigations](https://www.kaggle.com/code/lukastaylor2/fatty-liver-decision-tree-investigations) - Showed flaws in dataset for machine learning tools due to lack of healthy data for elderly individuals. Using decision trees, I showed how machine learning tools will make decisions based on false assumptions if there are such problems with the dataset. Also showed how undersampling can solve some problems with imbalanced data.
