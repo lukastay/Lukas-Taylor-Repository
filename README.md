@@ -139,11 +139,9 @@ This project attempts to predict critical heat flux values. First, the project u
 
 </p>
 
-### 10) [Pakistan Houses Dataset - Testing Many Regressors, Find LGBM Is Best](https://www.kaggle.com/code/lukastaylor2/pakistan-houses-many-regressors-lgbm-best)
 
-This project uses housing data from Pakistan to predict housing prices. It finds Light Gradient Boosting Machine to be the most predictive.
   
-### 11) [House Prices Dataset - Experiments In Visualizing Machine Learning Feature Space](https://www.kaggle.com/code/lukastaylor2/housing-prices-ml-visualization)
+### 10) [House Prices Dataset - Experiments In Visualizing Machine Learning Feature Space](https://www.kaggle.com/code/lukastaylor2/housing-prices-ml-visualization)
 
 This project uses tensorflow to visualize both random forest and decision tree machine learning methods.
 
@@ -153,7 +151,7 @@ This project uses tensorflow to visualize both random forest and decision tree m
 
 </p>
   
-### 12) [Non Alcohol Fatty Liver Disease Dataset - Mass Classifier Testing And Undersampling](https://www.kaggle.com/code/lukastaylor2/fatty-liver-20-classifiers-92-74-undrsmpl) 
+### 11) [Non Alcohol Fatty Liver Disease Dataset - Mass Classifier Testing And Undersampling](https://www.kaggle.com/code/lukastaylor2/fatty-liver-20-classifiers-92-74-undrsmpl) 
 
 This data finds problems for inflated accuracy scores in the Non-alcohol fatty liver disease dataset due to problems with the dataset having much more data for people without the disease than with the disease. Then, it "undersamples" the data, which is where you remove certain parts of the data in order to make a more representative dataset. Finally, it re-evaluates classifier scores using the undersampled data. (Bronze metal)
 
@@ -163,11 +161,19 @@ This data finds problems for inflated accuracy scores in the Non-alcohol fatty l
 
 </p>
    
-### 13) [Pythonreader - A python script that searches PDFs](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/pythonreader.py) 
+### 12) [Pythonreader - A python script that searches PDFs](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/pythonreader.py) 
 
 This project searches the user's screen for sentences inside a PDF document. If it finds words on your screen that match with words in the PDF document, it will save the relevant page of the PDF document in a seperate file.
 
+### 13) [Pakistan Houses Dataset - Testing Many Regressors, Find LGBM Is Best](https://www.kaggle.com/code/lukastaylor2/pakistan-houses-many-regressors-lgbm-best)
 
+This project uses housing data from Pakistan to predict housing prices. It finds Light Gradient Boosting Machine to be the most predictive.
+
+<p align="center">
+
+<img src="images/pakistan.png?raw=true" width="800">
+
+</p>
    
 ### 14) [STATA - 2SLS Regression On Settler Mortality](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/STATA%20-%202SLS%20Regression.do) 
 
