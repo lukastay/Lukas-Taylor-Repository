@@ -106,3 +106,5 @@
 ![byyear](images/stata_byyear.png?raw=true)
     
 11) [GIS Distance Project - Data Preprocessing](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/GIS%20Distance%20Project%20-%20Data%20Preprocessing.ipynb)- Start of project where I use GIS information about visits to locations where we will use regression to see if shootings have an effect on visits to area
+
+![gis](images/gis.png?raw=true)    
