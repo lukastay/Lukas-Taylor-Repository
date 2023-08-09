@@ -13,7 +13,7 @@ Top Projects:
 
 Custom Built Data Visualization Tools:
 
-1) [R Language: ggoutlierscatterplot Package](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Example%20Power%20BI%20Dashboard.pdf) - Created R package that detects outliers in 2D space and displays them in a scatterplot.
+1) [R Language: ggoutlierscatterplot Package](https://github.com/lukastay/ggoutlierscatterplot) - Created R package that detects outliers in 2D space and displays them in a scatterplot.
 
 ![outlier scatterplot example](https://github.com/lukastay/ggoutlierscatterplot/blob/main/plotexample.tiff?raw=true)
 
