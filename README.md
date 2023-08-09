@@ -1,11 +1,11 @@
 # Lukas Taylor Portfolio
 
-# Kaggle.com Awards:
+## Kaggle.com Awards:
 1) Earned bronze metal for four studies
 2) .002272 RMSE away from first place on "Feature Imputation with a Heat Flux Dataset" competition
 3) Top 20% in "House Prices - Advanced Regression Techniques" competition
 
-# Custom-Built Data Visualization And Analysis Tools:
+## Custom-Built Data Visualization And Analysis Tools:
 
 ### 1) [R Language: ggoutlierscatterplot Package](https://github.com/lukastay/ggoutlierscatterplot)
 
@@ -47,7 +47,7 @@ R package built to syncronize different data visualization themes across multipl
 
 </p>
 
-# Selected Data Science Investigations:
+## Selected Data Science Investigations:
 
 ### 1) [Regression Model Optimization - Vaccines And Death Rates](https://www.kaggle.com/lukastaylor2/vaccine-and-county-death-rates)
 
@@ -82,7 +82,7 @@ Demonstrated strong data visualization skills with supermarket sales data. (Bron
 
 </p>
 
-# Kaggle.com Notebooks:
+## Kaggle.com Notebooks:
 
 ### 1) [Titanic - Mass Testing Of Machine Learning Estimators](https://www.kaggle.com/code/lukastaylor2/titanic-mass-testing-of-estimators-v2)
 
@@ -164,7 +164,8 @@ This data finds problems for inflated accuracy scores in the Non-alcohol fatty l
 
 </p>
 
-# Other Assorted Works
+## Other Assorted Works
+
 ### 1) [Power BI Dashboard On Sales Data](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Example%20Power%20BI%20Dashboard.pdf) 
 
 Showed Power BI visualization and DAX skills using a Microsoft example data model
