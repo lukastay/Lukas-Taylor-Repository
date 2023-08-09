@@ -33,7 +33,7 @@ R package built for visualizing and preparing TURF analysis, where combinations 
 
 <p align="center">
 
-<img src="images/waterfall.png" width="900">
+<img src="images/waterfall.png" width="1100">
 
 </p>
 
@@ -75,7 +75,7 @@ Showed Power BI visualization and DAX skills using a Microsoft example data mode
 
 <p align="center">
 
-<img src="images/power_bi_ex.png?raw=true" width="900">
+<img src="images/power_bi_ex.png?raw=true" width="1200">
 
 </p>
 
@@ -95,7 +95,7 @@ This project leverages data on characteristics of people who survived the Titani
 
 <p align="center">
 
-<img src="images/titanic_real.png?raw=true" width="1000">
+<img src="images/titanic_real.png?raw=true" width="1150">
 
 </p>
    
