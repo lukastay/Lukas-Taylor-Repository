@@ -55,9 +55,7 @@ Regression studying the effects of vaccine rates (first dose, booster, and serie
 
 <p align="center">
 
-<img src="images/vaccine_aic_bic.png?raw=true" width="600">
-
-<img src="images/vaccine_ols.png?raw=true" width="600">
+<img src="images/vaccine_real.png?raw=true" width="1000">
 
 </p>
    
