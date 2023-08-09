@@ -60,6 +60,7 @@ Kaggle.com Notebooks:
   
 11) [Fatty Liver - 20+ Classifiers - 92%, 74% Undersample](https://www.kaggle.com/code/lukastaylor2/fatty-liver-20-classifiers-92-74-undrsmpl) - This data finds problems for inflated accuracy scores in the Non-alcohol fatty liver disease dataset due to problems with the dataset having much more data for people without the disease than with the disease. Then, it "undersamples" the data, which is where you remove certain parts of the data in order to make a more representative dataset. Finally, it re-evaluates classifier scores using the undersampled data. (Bronze metal)
 
+![fatty_liver](https://github.com/lukastay/ggautothemes/blob/master/photos/fatty_liver.png?raw=true)
 
 
 This is a portfolio of selected mini-projects I've done
