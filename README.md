@@ -149,7 +149,7 @@ This project uses the previvous housing prices dataset to tune Tensorflow Random
 
 <p align="center">
 
-<img src="images/house_prices_tf.png?raw=true" width="600">
+<img src="images/house_prices_tf.png?raw=true" width="500">
 
 </p>
   
@@ -159,7 +159,7 @@ This data finds problems for inflated accuracy scores in the Non-alcohol fatty l
 
 <p align="center">
 
-<img src="images/fatty_liver.png?raw=true" width="600">
+<img src="images/fatty_liver.png?raw=true" width="800">
 
 </p>
 
