@@ -6,13 +6,14 @@
 3) Top 20% in "House Prices - Advanced Regression Techniques" competition
 
 ## Top Kaggle Projects:
-1) [Non Alcohol Fatty Liver Disease - Decision Tree Investigations](https://www.kaggle.com/code/lukastaylor2/fatty-liver-decision-tree-investigations) - Showed flaws in dataset for machine learning tools due to lack of healthy data for elderly individuals. Using decision trees, I showed how machine learning tools will make decisions based on false assumptions if there are such problems with the dataset. Also showed how undersampling can solve some problems with imbalanced data.
+
+1) [Regression - Vaccines And Death Rates](https://www.kaggle.com/lukastaylor2/vaccine-and-county-death-rates) - Regression studying the effects of vaccine rates (first dose, booster, and series) on county level death rates.
 
 ![vaccine_lasso](images/vaccine_lasso.png?raw=true)
 ![vaccine_aic_bic](images/vaccine_aic_bic.png?raw=true)
 ![vaccine_ols](images/vaccine_ols.png?raw=true)
    
-2) [Regression - Vaccines And Death Rates](https://www.kaggle.com/lukastaylor2/vaccine-and-county-death-rates) - Regression studying the effects of vaccine rates (first dose, booster, and series) on county level death rates.
+2) [Non Alcohol Fatty Liver Disease - Decision Tree Investigations](https://www.kaggle.com/code/lukastaylor2/fatty-liver-decision-tree-investigations) - Showed flaws in dataset for machine learning tools due to lack of healthy data for elderly individuals. Using decision trees, I showed how machine learning tools will make decisions based on false assumptions if there are such problems with the dataset. Also showed how undersampling can solve some problems with imbalanced data.
 
 ![fatty_liver_dt](images/dermatology_dt.png?raw=true)
 
