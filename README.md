@@ -15,7 +15,7 @@
    
 2) [Non Alcohol Fatty Liver Disease - Decision Tree Investigations](https://www.kaggle.com/code/lukastaylor2/fatty-liver-decision-tree-investigations) - Showed flaws in dataset for machine learning tools due to lack of healthy data for elderly individuals. Using decision trees, I showed how machine learning tools will make decisions based on false assumptions if there are such problems with the dataset. Also showed how undersampling can solve some problems with imbalanced data.
 
-![fatty_liver_dt](images/dermatology_dt.png?raw=true)
+![fatty_liver](images/fatty_liver_dt.png?raw=true)
 
 3) [Visualizing Supermarket Sales With Seaborn](https://www.kaggle.com/code/lukastaylor2/visualizing-supermarket-sales-with-seaborn) - Demonstrated strong data visualization skills with supermarket sales data. (Bronze Metal)
 
