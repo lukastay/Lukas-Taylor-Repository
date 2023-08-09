@@ -23,7 +23,7 @@ Coded custom visual to create a scatterplot matrix visual in Power BI.
 
 <p align="center">
 
-<img src="https://i.imgur.com/acDeRMs.png" width="1000">
+<img src="images/scattermatrix.png" width="750">
 
 </p>
 
