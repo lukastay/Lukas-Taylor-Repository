@@ -171,7 +171,7 @@ This project uses housing data from Pakistan to predict housing prices. It finds
 
 <p align="center">
 
-<img src="images/pakistan.png?raw=true" width="800">
+<img src="images/pakistan.png?raw=true" width="1000">
 
 </p>
    
