@@ -125,7 +125,7 @@ This project is about predicting whether a person has diabetes based on factors 
 
 <p align="center">
 
-<img src="images/diabetes_lasso.png?raw=true" width="500">
+<img src="images/diabetes.png?raw=true" width="1000">
 
 </p>
 
@@ -159,7 +159,7 @@ This data finds problems for inflated accuracy scores in the Non-alcohol fatty l
 
 <p align="center">
 
-<img src="images/fatty_liver.png?raw=true" width="885">
+<img src="images/titanic_class_test.png?raw=true" width="885">
 
 </p>
    
