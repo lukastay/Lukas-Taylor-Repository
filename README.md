@@ -159,7 +159,7 @@ This data finds problems for inflated accuracy scores in the Non-alcohol fatty l
 
 <p align="center">
 
-<img src="images/fatty_liver.png?raw=true" width="885">
+<img src="images/titanic_class_test.png?raw=true" width="885">
 
 </p>
    
