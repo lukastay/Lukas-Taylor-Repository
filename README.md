@@ -75,8 +75,7 @@ Demonstrated strong data visualization skills with supermarket sales data. (Bron
 
 <p align="center">
 
-<img src="images/supermarket.png?raw=true" width="600">
-<img src="images/supermarket2.png?raw=true" width="600">
+<img src="images/supermarket_real.png?raw=true" width="1000">
 
 </p>
 
@@ -133,12 +132,6 @@ This project attempts to predict critical heat flux values. First, the project u
 ### 9) [House Prices - Catboost Hyperparameter Tuning For Top Accuracy Rating](https://www.kaggle.com/code/lukastaylor2/house-prices-catboost-hyperparameter-tune-12743)
 
 This model uses the "House Prices - Advanced Regression Techniques" dataset. For the competition associated with this dataset, we are supposed to predict house prices based on a variety of variables. After some preprocessing of the data, this journal tunes Catboost, a regression model.
-
-<p align="center">
-
-<img src="images/house_prices.png?raw=true" width="300">
-
-</p>
 
 ### 10) [Pakistan Houses - Testing Many Regressors, Find LGBM Is Best](https://www.kaggle.com/code/lukastaylor2/pakistan-houses-many-regressors-lgbm-best)
 
