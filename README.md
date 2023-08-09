@@ -143,13 +143,13 @@ This project attempts to predict critical heat flux values. First, the project u
 
 This project uses housing data from Pakistan to predict housing prices. It finds Light Gradient Boosting Machine to be the most predictive.
   
-### 11) [House Prices Dataset - Tensorflow Random Forest Automatic Hyperparameter Tuner Grants Me A Competitive Score](https://www.kaggle.com/code/lukastaylor2/house-prices-tensorflow-random-forest-autotuner)
+### 11) [House Prices Dataset - Experiments In Visualizing Machine Learning Feature Space](https://www.kaggle.com/code/lukastaylor2/housing-prices-ml-visualization)
 
-This project uses the previvous housing prices dataset to tune Tensorflow Random Forest models.
+This project uses tensorflow to visualize both random forest and decision tree machine learning methods.
 
 <p align="center">
 
-<img src="images/house_prices_tf.png?raw=true" width="500">
+<img src="images/housing.png?raw=true" width="1000">
 
 </p>
   
