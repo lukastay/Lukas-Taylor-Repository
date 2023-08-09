@@ -125,7 +125,7 @@ This project is about predicting whether a person has diabetes based on factors 
 
 <p align="center">
 
-<img src="images/diabetes_lasso.png?raw=true" width="500">
+<img src="images/diabetes.png?raw=true" width="1000">
 
 </p>
 
