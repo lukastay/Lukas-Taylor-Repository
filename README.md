@@ -159,7 +159,7 @@ This data finds problems for inflated accuracy scores in the Non-alcohol fatty l
 
 <p align="center">
 
-<img src="images/fatty_liver.png?raw=true" width="800">
+<img src="images/fatty_liver.png?raw=true" width="885">
 
 </p>
    
@@ -175,6 +175,6 @@ Two-Stage Least Squares regression code for STATA. Then, I visualize multiple re
 
 <p align="center">
 
-<img src="images/stata_real.png?raw=true" width="1000">
+<img src="images/stata_real.png?raw=true" width="1200">
 
 </p>
