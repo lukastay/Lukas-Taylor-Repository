@@ -142,12 +142,6 @@ This project attempts to predict critical heat flux values. First, the project u
 ### 10) [Pakistan Houses Dataset - Testing Many Regressors, Find LGBM Is Best](https://www.kaggle.com/code/lukastaylor2/pakistan-houses-many-regressors-lgbm-best)
 
 This project uses housing data from Pakistan to predict housing prices. It finds Light Gradient Boosting Machine to be the most predictive.
-
-<p align="center">
-
-<img src="images/pakistan_houses.png?raw=true" width="600">
-
-</p>
   
 ### 11) [House Prices Dataset - Tensorflow Random Forest Automatic Hyperparameter Tuner](https://www.kaggle.com/code/lukastaylor2/house-prices-tensorflow-random-forest-autotuner)
 
