@@ -95,7 +95,7 @@ Using decision tree analysis, this journal showed how low in-class variance for 
 
 <p align="center">
 
-<img src="images/dermatology_dt.png?raw=true" width="600">
+<img src="images/derma.png?raw=true" width="1400">
 
 </p>
 
