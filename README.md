@@ -19,6 +19,7 @@
 3) [Visualizing Supermarket Sales With Seaborn](https://www.kaggle.com/code/lukastaylor2/visualizing-supermarket-sales-with-seaborn) - Demonstrated strong data visualization skills with supermarket sales data. (Bronze Metal)
 
 ![supermarket_graph](images/supermarket.png?raw=true)
+![supermarket_graph2](images/supermarket2.png?raw=true)
 
 
 ## Custom-Built Data Visualization And Analysis Tools:
