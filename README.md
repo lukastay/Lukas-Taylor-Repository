@@ -19,6 +19,7 @@
 3) [Visualizing Supermarket Sales With Seaborn](https://www.kaggle.com/code/lukastaylor2/visualizing-supermarket-sales-with-seaborn) - Demonstrated strong data visualization skills with supermarket sales data. (Bronze Metal)
 
 ![supermarket_graph](images/supermarket.png?raw=true)
+![supermarket_graph2](images/supermarket2.png?raw=true)
 
 
 ## Custom-Built Data Visualization And Analysis Tools:
@@ -40,6 +41,8 @@
 4) [R Language: ggautothemes](https://github.com/lukastay/ggautothemes/blob/master/README.md) - R package built to syncronize different data visualization themes across multiple packages, and allow users to quickly see how their plots will look like. This package uses R sleep functions to create a "slideshow" of sorts, where users can see their custom data visualization in a wide variety of themes. After a user selects a theme, they can output it to a professional grade high quality raster image file.
 
 ![autoallthemes](https://github.com/lukastay/ggautothemes/blob/master/photos/showcase.gif?raw=true)
+
+![choose_theme](https://github.com/lukastay/ggautothemes/blob/master/photos/ggautothemes_exported_graph.tiff?raw=true)
 
 ## Kaggle.com Notebooks:
 
