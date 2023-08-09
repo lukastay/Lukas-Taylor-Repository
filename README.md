@@ -87,15 +87,18 @@
 
    
 4) [Pythonreader](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/pythonreader.py) - This project searches the user's screen for sentences inside a PDF document. If it finds words on your screen that match with words in the PDF document, it will save the relevant page of the PDF document in a seperate file.
-5) [ Backwards Regression](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Backwards%20Regression.ipynb) - Backwards selection for regression analysis. Backwards selection chooses variables to use in a regression by testing which variables, when left out of a regression, raise the predictability of the model.
-6) [ Finding latlong from zips or strings](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Finding%20latlong%20from%20zips%20or%20strings%20with%20locations%20in%20middle) - Function to find the latitude and longitude for zip codes or strings that are containing a city but also other text
-7) [ Machine Learning - Truckers Quitting](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Machine%20Learning%20-%20Truckers%20Quitting.ipynb) - Machine learning project for analyzing data for trucker employment retention. Uses machine learning to predict whether a trucker will quit and what factors predict quitting
+5) [ Backwards Regression](https://www.kaggle.com/lukastaylor2/backwards-regression) - Backwards selection for regression analysis. Backwards selection chooses variables to use in a regression by testing which variables, when left out of a regression, raise the predictability of the model.
+
+![back_bic](images/backwards_bic.png?raw=true)
+
+7) [ Finding latlong from zips or strings](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Finding%20latlong%20from%20zips%20or%20strings%20with%20locations%20in%20middle) - Function to find the latitude and longitude for zip codes or strings that are containing a city but also other text
+8) [ Machine Learning - Truckers Quitting](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Machine%20Learning%20-%20Truckers%20Quitting.ipynb) - Machine learning project for analyzing data for trucker employment retention. Uses machine learning to predict whether a trucker will quit and what factors predict quitting
 
 ![truckers](images/truckers.png?raw=true)
 
 
 8) [Machine Learning Classification](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Machine%20Learning%20Classifications.py) - Grouping variables with machine learning
-9) [R - Visualization Final](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/R%20-%20Visualization%20Final.qmd) - Final for class where I visualized a dataset
+9) [R - Exploratory Data Analysis Using Only Bar Graphs](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/R%20-%20Visualization%20Final.qmd) - Challenged myself to find out as much as I could about the dataset using only bar plots and histograms. Found anomoly in the seasonality of the dataset and tracked it down to an outlier month using well-tuned bar plots to set me in the right direction.
 10) [STATA - 2SLS Regression](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/STATA%20-%202SLS%20Regression.do) - Two-Stage Least Squares regression code for STATA
 11) [STATA - Regression Visualization](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/STATA%20-%20Regression%20Visualization.do) - Visualizing multiple regressions
 12) [Visualizing SKU Level Sales Data In Python](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Sorting%20Sales%20By%20Style%20and%20Color.ipynb) - Sorting state-level data from Dilliards relational database by color, style, and size. 
