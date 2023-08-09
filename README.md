@@ -69,7 +69,7 @@
 ![fatty_liver](https://github.com/lukastay/Lukas-Taylor-Repository/blob/master/images/fatty_liver.png?raw=true)
 
 
-##Other Assorted Works
+## Other Assorted Works
 1) [Power BI Dashboard On Sales Data](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Example%20Power%20BI%20Dashboard.pdf) - Showed Power BI visualization and DAX skills using a Microsoft example data model
 
 ![power_bi](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/images/power_bi_ex.png?raw=true)
