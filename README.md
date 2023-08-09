@@ -13,7 +13,7 @@ Created R package that detects outliers in 2D space and displays them in a scatt
 
 <p align="center">
 
-<img src="https://github.com/lukastay/ggoutlierscatterplot/blob/main/plotexample.allmethods.tiff?raw=true" width="800">
+<img src="https://github.com/lukastay/ggoutlierscatterplot/blob/main/plotexample.allmethods.tiff?raw=true" width="1000">
 
 </p>
   
@@ -23,7 +23,7 @@ Coded custom visual to create a scatterplot matrix visual in Power BI.
 
 <p align="center">
 
-<img src="https://i.imgur.com/acDeRMs.png" width="800">
+<img src="https://i.imgur.com/acDeRMs.png" width="1000">
 
 </p>
 
@@ -33,7 +33,7 @@ R package built for visualizing and preparing TURF analysis, where combinations 
 
 <p align="center">
 
-<img src="images/waterfall.png" width="800">
+<img src="images/waterfall.png" width="900">
 
 </p>
 
@@ -55,7 +55,7 @@ Regression studying the effects of vaccine rates (first dose, booster, and serie
 
 <p align="center">
 
-<img src="images/vaccine_real.png?raw=true" width="1000">
+<img src="images/vaccines_real2.png?raw=true" width="1000">
 
 </p>
    
