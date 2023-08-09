@@ -53,20 +53,20 @@
 
 4) [ Heat Flux - Miceforest And Pycaret](https://www.kaggle.com/code/lukastaylor2/heat-flux-miceforest-and-pycaret) - This project attempts to predict critical heat flux values. First, the project uses feature imputation using Miceforest, which is a way of dealing with missing data by guessing variable values based on similar data with known values. Secondly, it tests 20+ regression techniques to predict heat flux values and tunes hyperparameters for the best regression model.
 
-![heat_flux_models](https://github.com/lukastay/Lukas-Taylor-Repository/blob/master/images/heat_flux_models.png?raw=true)
+![heat_flux_models](images/heat_flux_models.png?raw=true)
 
 6) [House Prices - Catboost Hyperparameter Tune .12743](https://www.kaggle.com/code/lukastaylor2/house-prices-catboost-hyperparameter-tune-12743) - This model uses the "House Prices - Advanced Regression Techniques" dataset. For the competition associated with this dataset, we are supposed to predict house prices based on a variety of variables. After some preprocessing of the data, this journal tunes Catboost, a regression model. 
 7) [Pakistan Houses - Many Regressors - LGBM Best](https://www.kaggle.com/code/lukastaylor2/pakistan-houses-many-regressors-lgbm-best) - This project uses housing data from Pakistan to predict housing prices. It finds Light Gradient Boosting Machine to be the most predictive.
 
-![pakistan_houses](https://github.com/lukastay/Lukas-Taylor-Repository/blob/master/images/pakistan_houses.png?raw=true)
+![pakistan_houses](images/pakistan_houses.png?raw=true)
   
 9) [House Prices - Tensorflow Random Forest Autotuner](https://www.kaggle.com/code/lukastaylor2/house-prices-tensorflow-random-forest-autotuner) - This project uses the previvous housing prices dataset to tune Tensorflow Random Forest models.
 
-![house_prices_tf]([https://github.com/lukastay/Lukas-Taylor-Repository/blob/master/images/house_prices_tf.png?raw=true)
+![house_prices_tf]([images/house_prices_tf.png?raw=true)
   
 11) [Fatty Liver - 20+ Classifiers - 92%, 74% Undersample](https://www.kaggle.com/code/lukastaylor2/fatty-liver-20-classifiers-92-74-undrsmpl) - This data finds problems for inflated accuracy scores in the Non-alcohol fatty liver disease dataset due to problems with the dataset having much more data for people without the disease than with the disease. Then, it "undersamples" the data, which is where you remove certain parts of the data in order to make a more representative dataset. Finally, it re-evaluates classifier scores using the undersampled data. (Bronze metal)
 
-![fatty_liver](https://github.com/lukastay/Lukas-Taylor-Repository/blob/master/images/fatty_liver.png?raw=true)
+![fatty_liver](images/fatty_liver.png?raw=true)
 
 
 ## Other Assorted Works
