@@ -5,7 +5,7 @@
 2) .002272 RMSE away from first place on "Feature Imputation with a Heat Flux Dataset" competition
 3) Top 20% in "House Prices - Advanced Regression Techniques" competition
 
-## Top Kaggle Projects:
+## Selected Data Science Investigations:
 
 1) [Regression - Vaccines And Death Rates](https://www.kaggle.com/lukastaylor2/vaccine-and-county-death-rates) - Regression studying the effects of vaccine rates (first dose, booster, and series) on county level death rates.
 
