@@ -161,7 +161,7 @@ This data finds problems for inflated accuracy scores in the Non-alcohol fatty l
 
 </p>
    
-### 12) [Pythonreader - A python script that searches PDFs](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/pythonreader.py) 
+### 12) [Pythonreader - A python script that looks through PDFs for keywords that match words on your current computer screen](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/pythonreader.py) 
 
 This project searches the user's screen for sentences inside a PDF document. If it finds words on your screen that match with words in the PDF document, it will save the relevant page of the PDF document in a seperate file.
 
