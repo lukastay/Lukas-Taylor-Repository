@@ -92,7 +92,7 @@
 ![back_bic](images/backwards_bic.png?raw=true)
 
 7) [ Finding latlong from zips or strings](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Finding%20latlong%20from%20zips%20or%20strings%20with%20locations%20in%20middle) - Function to find the latitude and longitude for zip codes or strings that are containing a city but also other text
-8) [ Machine Learning - Truckers Quitting](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Machine%20Learning%20-%20Truckers%20Quitting.ipynb) - Machine learning project for analyzing data for trucker employment retention. Uses machine learning to predict whether a trucker will quit and what factors predict quitting
+8) [Various Machine Learning Methods And Datasets](https://www.kaggle.com/lukastaylor2/machine-learning-methods-across-datasets) - Machine learning project for analyzing data for trucker employment retention. Uses machine learning to predict whether a trucker will quit and what factors predict quitting
 
 ![truckers](images/truckers.png?raw=true)
 ![truckers2](images/trucker_logit.png?raw=true)
@@ -101,9 +101,8 @@
 ![truckers5](images/truckers_cm.png?raw=true)
 ![truckers6](images/truckers_features.png?raw=true)
 
-8) [Machine Learning Classification](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Machine%20Learning%20Classifications.py) - Grouping variables with machine learning
-9) [R - Exploratory Data Analysis Using Only Bar Graphs](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/R%20-%20Visualization%20Final.qmd) - Challenged myself to find out as much as I could about the dataset using only bar plots and histograms. Found anomoly in the seasonality of the dataset and tracked it down to an outlier month using well-tuned bar plots to set me in the right direction.
-10) [STATA - 2SLS Regression](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/STATA%20-%202SLS%20Regression.do) - Two-Stage Least Squares regression code for STATA
-11) [STATA - Regression Visualization](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/STATA%20-%20Regression%20Visualization.do) - Visualizing multiple regressions
-12) [Visualizing SKU Level Sales Data In Python](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Sorting%20Sales%20By%20Style%20and%20Color.ipynb) - Sorting state-level data from Dilliards relational database by color, style, and size. 
-101) [GIS Distance Project - Data Preprocessing](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/GIS%20Distance%20Project%20-%20Data%20Preprocessing.ipynb)- Start of project where I use GIS information about visits to locations where we will use regression to see if shootings have an effect on visits to area
+8) [R - Exploratory Data Analysis Using Only Bar Graphs](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/R%20-%20Visualization%20Final.qmd) - Challenged myself to find out as much as I could about the dataset using only bar plots and histograms. Found anomoly in the seasonality of the dataset and tracked it down to an outlier month using well-tuned bar plots to set me in the right direction.
+9) [STATA - 2SLS Regression On Settler Mortality](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/STATA%20-%202SLS%20Regression.do) - Two-Stage Least Squares regression code for STATA
+10) [STATA - Regression Visualization](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/STATA%20-%20Regression%20Visualization.do) - Visualizing multiple regressions
+11) [Visualizing SKU Level Sales Data In Python](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Sorting%20Sales%20By%20Style%20and%20Color.ipynb) - Sorting state-level data from Dilliards relational database by color, style, and size. 
+12) [GIS Distance Project - Data Preprocessing](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/GIS%20Distance%20Project%20-%20Data%20Preprocessing.ipynb)- Start of project where I use GIS information about visits to locations where we will use regression to see if shootings have an effect on visits to area
