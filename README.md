@@ -23,6 +23,10 @@ Custom Built Data Visualization Tools:
 
 ![ScatterMatrix](https://i.imgur.com/acDeRMs.png)
 
+2) [R Language: turfcata Package](https://github.com/lukastay/turfcata/tree/master) - R package built for visualizing and preparing TURF analysis, where combinations of marketing strategies based on "Check All That Apply" survey questions are evaluated. Advanced tree searching methods are used to hunt down combinations of marketing strategies that best suit a wide variety of individual interests.
+
+![Turfcata Waterfall Chart](https://github.com/lukastay/turfcata/blob/main/waterfall.png?raw=true)
+
 Kaggle.com Notebooks:
 
 1) [Titanic - Mass Testing Of Estimators](https://www.kaggle.com/code/lukastaylor2/titanic-mass-testing-of-estimators-v2) - This project leverages data on characteristics of people who survived the Titanic disaster to predict whether passengers with unknown data survived or did not survive. It mass-tests 20+ classifiers, and then tunes the hyperparamets of the best model. (Bronze metal)
