@@ -43,7 +43,7 @@ R package built to synchronize different data visualization themes across multip
 
 <p align="center">
 
-<img src="https://github.com/lukastay/ggautothemes/blob/master/photos/showcase.gif?raw=true" width="600">
+<img src="images/showcase.gif?raw=true" width="600">
 
 </p>
 
