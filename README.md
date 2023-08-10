@@ -162,6 +162,16 @@ This data finds problems for inflated accuracy scores in the Non-alcohol fatty l
 <img src="images/titanic_class_test.png?raw=true" width="885">
 
 </p>
+
+### 11) [Python Tutorial: Creating High Resolution Plots](https://www.kaggle.com/code/lukastaylor2/tutorial-high-resolution-plots/notebook) 
+
+Tutorial for building high resolution plots in matplotlib and seaborn.
+
+<p align="center">
+
+<img src="images/high_res.png?raw=true" width="885">
+
+</p>
    
 ### 12) [Pythonreader - A python script that looks through PDFs for keywords that match words on your current computer screen](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/pythonreader.py) 
 
