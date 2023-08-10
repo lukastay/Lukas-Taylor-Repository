@@ -13,7 +13,7 @@ Created R package that detects outliers in 2D space and displays them in a scatt
 
 <p align="center">
 
-<img src="https://github.com/lukastay/ggoutlierscatterplot/blob/main/plotexample.allmethods.tiff?raw=true" width="1000">
+<img src="images/ggscatterplot.png?raw=true" width="1000">
 
 </p>
   
@@ -169,7 +169,7 @@ Tutorial for building high resolution plots in matplotlib and seaborn.
 
 <p align="center">
 
-<img src="images/high_res2_copy.png?raw=true" width="885">
+<img src="images/high_res_copy.png?raw=true" width="885">
 <img src="images/high_res_below.png?raw=true" width="885">
 
 </p>
@@ -194,6 +194,6 @@ Two-Stage Least Squares regression code for STATA. Then, I visualize multiple re
 
 <p align="center">
 
-<img src="images/stata_real2.png?raw=true" width="1200">
+<img src="images/stata.png?raw=true" width="1200">
 
 </p>
