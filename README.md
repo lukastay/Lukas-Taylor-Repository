@@ -141,7 +141,7 @@ This project focuses on predicting whether a person has diabetes based on factor
 
 </p>
 
-### 10) [ Heat Flux Dataset - Hyperparameter Tuning Of Machine Learning Tools](https://www.kaggle.com/code/lukastaylor2/heat-flux-miceforest-and-pycaret) 
+### 10) [ Heat Flux Dataset - Feature Imputation And Hyperparameter Tuning Of Machine Learning Tools](https://www.kaggle.com/code/lukastaylor2/heat-flux-miceforest-and-pycaret) 
 
 This project attempts to predict critical heat flux values. First, the project uses feature imputation using Miceforest, which is a way of dealing with missing data by guessing variable values based on similar data with known values. Secondly, it tests 20+ regression techniques to predict heat flux values and tunes hyperparameters for the best regression model.
 
