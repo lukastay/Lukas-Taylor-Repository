@@ -87,7 +87,7 @@ Demonstrated strong data visualization skills with supermarket sales data. (Bron
 
 <p align="center">
 
-<img src="images/supermarket_real.png?raw=true" width="1000">
+<img src="images/supermarket_real2.png?raw=true" width="1000">
 
 </p>
 
@@ -97,7 +97,7 @@ This project leverages data on characteristics of people who survived the Titani
 
 <p align="center">
 
-<img src="images/titanic_real.png?raw=true" width="1150">
+<img src="images/titanic_real2.png?raw=true" width="1150">
 
 </p>
    
@@ -107,7 +107,7 @@ Using decision tree analysis, this journal showed how low in-class variance for 
 
 <p align="center">
 
-<img src="images/derma.png?raw=true" width="1400">
+<img src="images/derma2.png?raw=true" width="1400">
 
 </p>
 
@@ -127,7 +127,7 @@ This project is about predicting whether a person has diabetes based on factors 
 
 <p align="center">
 
-<img src="images/diabetes.png?raw=true" width="1000">
+<img src="images/diabetes2.png?raw=true" width="1000">
 
 </p>
 
@@ -137,7 +137,7 @@ This project attempts to predict critical heat flux values. First, the project u
 
 <p align="center">
 
-<img src="images/heat_flux.png?raw=true" width="1000">
+<img src="images/heat_flux2.png?raw=true" width="1000">
 
 </p>
 
@@ -149,7 +149,7 @@ This project uses tensorflow to visualize both random forest and decision tree m
 
 <p align="center">
 
-<img src="images/housing.png?raw=true" width="1000">
+<img src="images/housing2.png?raw=true" width="1000">
 
 </p>
   
@@ -169,7 +169,8 @@ Tutorial for building high resolution plots in matplotlib and seaborn.
 
 <p align="center">
 
-<img src="images/high_res.png?raw=true" width="885">
+<img src="images/high_res2.png?raw=true" width="885">
+<img src="images/high_res_below.png?raw=true" width="885">
 
 </p>
    
@@ -183,7 +184,7 @@ This project uses housing data from Pakistan to predict housing prices. It finds
 
 <p align="center">
 
-<img src="images/pakistan.png?raw=true" width="1000">
+<img src="images/pakistan2.png?raw=true" width="1000">
 
 </p>
    
@@ -193,6 +194,6 @@ Two-Stage Least Squares regression code for STATA. Then, I visualize multiple re
 
 <p align="center">
 
-<img src="images/stata_real.png?raw=true" width="1200">
+<img src="images/stata_real2.png?raw=true" width="1200">
 
 </p>
