@@ -43,7 +43,7 @@ ggautothemes is an R package built to let users see how their ggplot2 chart woul
 
 <p align="center">
 
-<img src="images/showcase.gif?raw=true" width="600">
+<img src="images/showcase.gif?raw=true" width="800">
 
 </p>
 
@@ -97,7 +97,7 @@ This data finds problems for inflated accuracy scores in the Non-alcohol fatty l
 
 <p align="center">
 
-<img src="images/titanic_class_test.png?raw=true" width="885">
+<img src="images/titanic_class_test.png?raw=true" width="1100">
 
 </p>
 
@@ -167,8 +167,8 @@ Tutorial for building high resolution plots in matplotlib and seaborn.
 
 <p align="center">
 
-<img src="images/high_res_copy.png?raw=true" width="885">
-<img src="images/high_res_below.png?raw=true" width="885">
+<img src="images/high_res_copy.png?raw=true" width="1000">
+<img src="images/high_res_below.png?raw=true" width="1000">
 
 </p>
    
@@ -192,7 +192,8 @@ Here I compare RMSE of linear regression vs. machine learning models. I use back
 
 <p align="center">
 
-<img src="images/regrmse.png?raw=true" width="1000">
+<img src="images/ols1.png?raw=true" width="1000">
+<img src="images/ols2.png?raw=true" width="1000">
 
 </p>
    
