@@ -189,9 +189,3 @@ This project uses housing data from Pakistan to predict housing prices. It finds
 ### 15) [STATA - 2SLS Regression On Settler Mortality And Education](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/STATA%20-%202SLS%20Regression.do) 
 
 Two-Stage Least Squares regression code for STATA. Then, I visualize multiple regressions by year.
-
-<p align="center">
-
-<img src="images/stata.png?raw=true" width="1200">
-
-</p>
