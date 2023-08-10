@@ -169,7 +169,7 @@ Tutorial for building high resolution plots in matplotlib and seaborn.
 
 <p align="center">
 
-<img src="images/high_res2.png?raw=true" width="885">
+<img src="images/high_res2_copy.png?raw=true" width="885">
 <img src="images/high_res_below.png?raw=true" width="885">
 
 </p>
