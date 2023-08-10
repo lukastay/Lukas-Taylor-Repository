@@ -185,7 +185,17 @@ This project uses housing data from Pakistan to predict housing prices. It finds
 <img src="images/pakistan2.png?raw=true" width="1000">
 
 </p>
+
+### 15) [Optimized Linear Regression vs. Machine Learning](https://www.kaggle.com/code/lukastaylor2/emissions-optimized-linear-regression-vs-ml/notebook)
+
+Here I compare RMSE of linear regression vs. machine learning models. I use backwards selection, forwards selection, LASSO, LASSO CV, LASSO AIC, and LASSO BIC.
+
+<p align="center">
+
+<img src="images/regrmse.png?raw=true" width="1000">
+
+</p>
    
-### 15) [STATA - 2SLS Regression On Settler Mortality And Education](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/STATA%20-%202SLS%20Regression.do) 
+### 16) [STATA - 2SLS Regression On Settler Mortality And Education](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/STATA%20-%202SLS%20Regression.do) 
 
 Two-Stage Least Squares regression code for STATA. Then, I visualize multiple regressions by year.
