@@ -71,7 +71,7 @@ Showed flaws in dataset balance explain why other Kaggle users were getting infl
 
 </p>
 
-### 3) [Power BI Dashboard On Sales Data](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/Example%20Power%20BI%20Dashboard.pdf) 
+### 3) [Power BI Dashboard On Sales Data](https://drive.google.com/file/d/1E7nuM36Msr3SO-XUZ8YtUxgHjIABAqTo/view?usp=sharing) 
 
 Showcased my Power BI visualization and DAX skills using a Microsoft example data model.
 
