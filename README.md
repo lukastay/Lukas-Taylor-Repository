@@ -196,7 +196,17 @@ Here I compare RMSE of linear regression vs. machine learning models. I use back
 <img src="images/ols2.png?raw=true" width="1000">
 
 </p>
+
+### 16) [Visualizing LASSO Solution Paths](https://www.kaggle.com/lukastaylor2/lasso-solution-path-plot)
+
+Plots LASSO solution paths in an aesthetically pleasing way.
+
+<p align="center">
+
+<img src="images/lasso.png?raw=true" width="1000">
+
+</p>
    
-### 16) [STATA - 2SLS Regression On Settler Mortality And Education](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/STATA%20-%202SLS%20Regression.do) 
+### 17) [STATA - 2SLS Regression On Settler Mortality And Education](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/STATA%20-%202SLS%20Regression.do) 
 
 Two-Stage Least Squares regression code for STATA. Then, I visualize multiple regressions by year.
