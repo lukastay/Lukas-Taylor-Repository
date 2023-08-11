@@ -206,7 +206,17 @@ Plots LASSO solution paths in an aesthetically pleasing way.
 <img src="images/lasso.png?raw=true" width="1000">
 
 </p>
+
+### 17) [Forecasting Tomorrow's Carbon Emissions](https://www.kaggle.com/code/lukastaylor2/r-forecasting-101)
+
+Uses Holt, Moving Average, regression, and ARIMA models to forecast future emissions.
+
+<p align="center">
+
+<img src="images/forecast.png?raw=true" width="1000">
+
+</p>
    
-### 17) [STATA - 2SLS Regression On Settler Mortality And Education](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/STATA%20-%202SLS%20Regression.do) 
+### 18) [STATA - 2SLS Regression On Settler Mortality And Education](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/STATA%20-%202SLS%20Regression.do) 
 
 Two-Stage Least Squares regression code for STATA. Then, I visualize multiple regressions by year.
