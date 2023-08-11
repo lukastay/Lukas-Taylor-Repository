@@ -49,7 +49,17 @@ ggautothemes is an R package built to let users see how their ggplot2 chart woul
 
 ## Selected Data Science Investigations:
 
-### 1) [Regression Model Optimization - Vaccines And Death Rates](https://www.kaggle.com/lukastaylor2/vaccine-and-county-death-rates)
+### 1) [Power BI Dashboard On Sales Data](https://drive.google.com/file/d/1E7nuM36Msr3SO-XUZ8YtUxgHjIABAqTo/view?usp=sharing) 
+
+Showcased my Power BI visualization and DAX skills using a Microsoft example data model.
+
+<p align="center">
+
+<img src="images/power_bi_ex.png?raw=true" width="1200">
+
+</p>
+
+### 2) [Regression Model Optimization - Vaccines And Death Rates](https://www.kaggle.com/lukastaylor2/vaccine-and-county-death-rates)
 
 Regression studying the effects of vaccine rates (first dose, booster, and series) on county level death rates. Used various model selection tools, like backwards selection and LASSO to choose the best model.
 
@@ -61,23 +71,13 @@ Regression studying the effects of vaccine rates (first dose, booster, and serie
 
 </p>
    
-### 2) [Non Alcohol Fatty Liver Disease Dataset - Decision Tree Investigations](https://www.kaggle.com/code/lukastaylor2/fatty-liver-decision-tree-investigations)
+### 3) [Non Alcohol Fatty Liver Disease Dataset - Decision Tree Investigations](https://www.kaggle.com/code/lukastaylor2/fatty-liver-decision-tree-investigations)
 
 Showed flaws in dataset balance explain why other Kaggle users were getting inflated accuracy scores on their machine learning models. Also showed how oversampling can fix some of this issue.
 
 <p align="center">
 
 ![fatty_liver](images/fatty_liver_dt.png?raw=true)
-
-</p>
-
-### 3) [Power BI Dashboard On Sales Data](https://drive.google.com/file/d/1E7nuM36Msr3SO-XUZ8YtUxgHjIABAqTo/view?usp=sharing) 
-
-Showcased my Power BI visualization and DAX skills using a Microsoft example data model.
-
-<p align="center">
-
-<img src="images/power_bi_ex.png?raw=true" width="1200">
 
 </p>
 
