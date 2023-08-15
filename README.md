@@ -91,7 +91,17 @@ Demonstrated strong data visualization skills with supermarket sales data. (Bron
 
 </p>
 
-### 5) [Non Alcohol Fatty Liver Disease Dataset - Mass Classifier Testing And Undersampling](https://www.kaggle.com/code/lukastaylor2/fatty-liver-20-classifiers-92-74-undrsmpl) 
+### 5) [LASSO Solution Paths: Essay And Code Tutorial](https://www.kaggle.com/lukastaylor2/lasso-solution-path-plot)
+
+Explains LASSO solution paths and plots them in an aesthetically pleasing way.
+
+<p align="center">
+
+<img src="images/lasso.png?raw=true" width="1000">
+
+</p>
+
+### 6) [Non Alcohol Fatty Liver Disease Dataset - Mass Classifier Testing And Undersampling](https://www.kaggle.com/code/lukastaylor2/fatty-liver-20-classifiers-92-74-undrsmpl) 
 
 This data finds problems for inflated accuracy scores in the Non-alcohol fatty liver disease dataset due to problems with the dataset having much more data for people without the disease than with the disease. Then, it "undersamples" the data, which is where you remove certain parts of the data in order to make a more representative dataset. Finally, it re-evaluates classifier scores using the undersampled data. (Bronze metal)
 
@@ -101,7 +111,7 @@ This data finds problems for inflated accuracy scores in the Non-alcohol fatty l
 
 </p>
 
-### 6) [Titanic Survivor Dataset - Mass Testing Of Machine Learning Estimators](https://www.kaggle.com/code/lukastaylor2/titanic-mass-testing-of-estimators-v2)
+### 7) [Titanic Survivor Dataset - Mass Testing Of Machine Learning Estimators](https://www.kaggle.com/code/lukastaylor2/titanic-mass-testing-of-estimators-v2)
 
 This project leverages data on characteristics of people who survived the Titanic disaster to predict whether passengers with unknown data survived or did not survive. It mass-tests 20+ classifiers, and then tunes the hyperparamets of the best model. (Bronze Metal On Kaggle)
 
@@ -111,7 +121,7 @@ This project leverages data on characteristics of people who survived the Titani
 
 </p>
    
-### 7) [ Dermamtology Dataset - Diagnosing The Dataset As Inflating Other Users' Machine Learning Scores](https://www.kaggle.com/code/lukastaylor2/dermamtology-fixing-inflated-accuracy-scores)
+### 8) [ Dermamtology Dataset - Diagnosing The Dataset As Inflating Other Users' Machine Learning Scores](https://www.kaggle.com/code/lukastaylor2/dermamtology-fixing-inflated-accuracy-scores)
 
 Using decision tree analysis, this journal showed how low in-class variance for any given variable given to machine learning tools can cause inflated accuracy scores. With low in-class variance, a machine learning tool will simply predict a given result based on arbitrary data.
 
@@ -121,7 +131,7 @@ Using decision tree analysis, this journal showed how low in-class variance for 
 
 </p>
 
-### 8) [ Backwards Selection For Optimal Regression Modeling](https://www.kaggle.com/lukastaylor2/backwards-regression) 
+### 9) [ Backwards Selection For Optimal Regression Modeling](https://www.kaggle.com/lukastaylor2/backwards-regression) 
 
 Backwards selection for regression analysis. Backwards selection chooses variables to use in a regression by testing which variables, when left out of a regression, raise the predictability of the model.
 
@@ -131,7 +141,7 @@ Backwards selection for regression analysis. Backwards selection chooses variabl
 
 </p>
    
-### 9) [Diabetes Dataset - Classifier Testing And Undersampling](https://www.kaggle.com/code/lukastaylor2/diabetes-20-classifiers-97-91-undrsmpl)
+### 10) [Diabetes Dataset - Classifier Testing And Undersampling](https://www.kaggle.com/code/lukastaylor2/diabetes-20-classifiers-97-91-undrsmpl)
 
 This project focuses on predicting whether a person has diabetes based on factors like gender, age, BMI, and others. First, I do exploratory data analysis and data visualizations. Then, I performs LASSO, a way of creating models with only the most significant variables. Next, I mass-test many scikit learn classifiers and tune the hyperparameters of the highest scoring classifier. (Bronze metal)
 
@@ -141,7 +151,7 @@ This project focuses on predicting whether a person has diabetes based on factor
 
 </p>
 
-### 10) [ Heat Flux Dataset - Feature Imputation And Hyperparameter Tuning Of Machine Learning Tools](https://www.kaggle.com/code/lukastaylor2/heat-flux-miceforest-and-pycaret) 
+### 11) [ Heat Flux Dataset - Feature Imputation And Hyperparameter Tuning Of Machine Learning Tools](https://www.kaggle.com/code/lukastaylor2/heat-flux-miceforest-and-pycaret) 
 
 This project attempts to predict critical heat flux values. First, the project uses feature imputation using Miceforest, which is a way of dealing with missing data by guessing variable values based on similar data with known values. Secondly, it tests 20+ regression techniques to predict heat flux values and tunes hyperparameters for the best regression model.
 
@@ -151,7 +161,7 @@ This project attempts to predict critical heat flux values. First, the project u
 
 </p>
   
-### 11) [House Prices Dataset - Experiments In Visualizing Machine Learning Feature Space](https://www.kaggle.com/code/lukastaylor2/housing-prices-ml-visualization)
+### 12) [House Prices Dataset - Experiments In Visualizing Machine Learning Feature Space](https://www.kaggle.com/code/lukastaylor2/housing-prices-ml-visualization)
 
 This project uses tensorflow to visualize both random forest and decision tree machine learning methods.
 
@@ -161,7 +171,7 @@ This project uses tensorflow to visualize both random forest and decision tree m
 
 </p>
 
-### 12) [Python Tutorial: Creating High Resolution Plots](https://www.kaggle.com/code/lukastaylor2/tutorial-high-resolution-plots/notebook) 
+### 13) [Python Tutorial: Creating High Resolution Plots](https://www.kaggle.com/code/lukastaylor2/tutorial-high-resolution-plots/notebook) 
 
 Tutorial for building high resolution plots in matplotlib and seaborn.
 
@@ -172,11 +182,11 @@ Tutorial for building high resolution plots in matplotlib and seaborn.
 
 </p>
    
-### 13) [Pythonreader](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/pythonreader.py) 
+### 14) [Pythonreader](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/pythonreader.py) 
 
 A python script that looks through PDFs for keywords that match words on a user's current computer screen.
 
-### 14) [Pakistan Houses Dataset - Testing Many Regressors, Finds LGBM Is Best](https://www.kaggle.com/code/lukastaylor2/pakistan-houses-many-regressors-lgbm-best)
+### 15) [Pakistan Houses Dataset - Testing Many Regressors, Finds LGBM Is Best](https://www.kaggle.com/code/lukastaylor2/pakistan-houses-many-regressors-lgbm-best)
 
 This project uses housing data from Pakistan to predict housing prices. It finds Light Gradient Boosting Machine to be the most predictive.
 
@@ -186,7 +196,7 @@ This project uses housing data from Pakistan to predict housing prices. It finds
 
 </p>
 
-### 15) [Optimized Linear Regression vs. Machine Learning](https://www.kaggle.com/code/lukastaylor2/emissions-optimized-linear-regression-vs-ml/notebook)
+### 16) [Optimized Linear Regression vs. Machine Learning](https://www.kaggle.com/code/lukastaylor2/emissions-optimized-linear-regression-vs-ml/notebook)
 
 Here I compare RMSE of linear regression vs. machine learning models. I use backwards selection, forwards selection, LASSO, LASSO CV, LASSO AIC, and LASSO BIC.
 
@@ -194,16 +204,6 @@ Here I compare RMSE of linear regression vs. machine learning models. I use back
 
 <img src="images/ols1.png?raw=true" width="1000">
 <img src="images/ols2.png?raw=true" width="1000">
-
-</p>
-
-### 16) [LASSO Solution Paths: Essay And Code Tutorial](https://www.kaggle.com/lukastaylor2/lasso-solution-path-plot)
-
-Explains LASSO solution paths and plots them in an aesthetically pleasing way.
-
-<p align="center">
-
-<img src="images/lasso.png?raw=true" width="1000">
 
 </p>
 
