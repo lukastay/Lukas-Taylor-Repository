@@ -1,6 +1,14 @@
 # Lukas Taylor Portfolio
 
-## [LinkedIn](https://www.linkedin.com/in/lukastaylor72764/)
+## Info
+
+#### Email: lukastay@umich.edu
+
+#### Phone Number: 1-479-966-5686
+
+#### [Resume](https://drive.google.com/drive/u/0/folders/1MSVcxD67Dg_DU6LVVcjYppaZhPpX7y96)
+
+#### [LinkedIn](https://www.linkedin.com/in/lukastaylor72764/)
 
 ## Kaggle.com Awards:
 1) Earned bronze medal for four studies
