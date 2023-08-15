@@ -9,7 +9,7 @@
 
 ### 1) [R Language: ggoutlierscatterplot Package](https://github.com/lukastay/ggoutlierscatterplot)
 
-Created R package that visualizes different algorithms for detecting outliers in two dimensional space with scatterplots.
+Created R package that visualizes different algorithms for detecting outliers in two-dimensional space with scatterplots.
 
 <p align="center">
 
@@ -83,7 +83,7 @@ Showed flaws in dataset balance explain why other Kaggle users were getting infl
 
 ### 4) [Visualizing Supermarket Sales With Seaborn](https://www.kaggle.com/code/lukastaylor2/visualizing-supermarket-sales-with-seaborn)
 
-Demonstrated strong data visualization skills with supermarket sales data. (Bronze Metal On Kaggle)
+Demonstrated strong data visualization skills with supermarket sales data. (Bronze Medal On Kaggle)
 
 <p align="center">
 
@@ -101,9 +101,9 @@ Explains LASSO solution paths and plots them in an aesthetically pleasing way.
 
 </p>
 
-### 6) [Non Alcohol Fatty Liver Disease Dataset - Mass Classifier Testing And Undersampling](https://www.kaggle.com/code/lukastaylor2/fatty-liver-20-classifiers-92-74-undrsmpl) 
+### 6) [Non Alcohol Fatty Liver Disease Dataset - Mass Classifier Testing And Under-sampling](https://www.kaggle.com/code/lukastaylor2/fatty-liver-20-classifiers-92-74-undrsmpl) 
 
-This data finds problems for inflated accuracy scores in the Non-alcohol fatty liver disease dataset due to problems with the dataset having much more data for people without the disease than with the disease. Then, it "undersamples" the data, which is where you remove certain parts of the data in order to make a more representative dataset. Finally, it re-evaluates classifier scores using the undersampled data. (Bronze metal)
+This data finds problems for inflated accuracy scores in the Non-alcohol fatty liver disease dataset due to problems with the dataset having much more data for people without the disease than with the disease. Then, it "under-samples" the data, which is where you remove certain parts of the data to make a more representative dataset. Finally, it re-evaluates classifier scores using the under-sampled data. (Bronze Medal On Kaggle)
 
 <p align="center">
 
@@ -113,7 +113,7 @@ This data finds problems for inflated accuracy scores in the Non-alcohol fatty l
 
 ### 7) [Titanic Survivor Dataset - Mass Testing Of Machine Learning Estimators](https://www.kaggle.com/code/lukastaylor2/titanic-mass-testing-of-estimators-v2)
 
-This project leverages data on characteristics of people who survived the Titanic disaster to predict whether passengers with unknown data survived or did not survive. It mass-tests 20+ classifiers, and then tunes the hyperparamets of the best model. (Bronze Metal On Kaggle)
+This project leverages data on characteristics of people who survived the Titanic disaster to predict whether passengers with unknown data survived or did not survive. It mass-tests 20+ classifiers, and then tunes the hyperparamets of the best model. (Bronze Medal On Kaggle)
 
 <p align="center">
 
@@ -143,7 +143,7 @@ Backwards selection for regression analysis. Backwards selection chooses variabl
    
 ### 10) [Diabetes Dataset - Classifier Testing And Undersampling](https://www.kaggle.com/code/lukastaylor2/diabetes-20-classifiers-97-91-undrsmpl)
 
-This project focuses on predicting whether a person has diabetes based on factors like gender, age, BMI, and others. First, I do exploratory data analysis and data visualizations. Then, I performs LASSO, a way of creating models with only the most significant variables. Next, I mass-test many scikit learn classifiers and tune the hyperparameters of the highest scoring classifier. (Bronze metal)
+This project focuses on predicting whether a person has diabetes based on factors like gender, age, BMI, and others. First, I do exploratory data analysis and data visualizations. Then, I utilize LASSO, a way of creating models with only the most significant variables. Next, I mass-test many scikit learn classifiers and tune the hyperparameters of the highest scoring classifier. (Bronze Medal On Kaggle)
 
 <p align="center">
 
