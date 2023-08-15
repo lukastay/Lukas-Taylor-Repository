@@ -197,9 +197,9 @@ Here I compare RMSE of linear regression vs. machine learning models. I use back
 
 </p>
 
-### 16) [Visualizing LASSO Solution Paths](https://www.kaggle.com/lukastaylor2/lasso-solution-path-plot)
+### 16) [LASSO Solution Paths: Essay And Code Tutorial](https://www.kaggle.com/lukastaylor2/lasso-solution-path-plot)
 
-Plots LASSO solution paths in an aesthetically pleasing way.
+Explains LASSO solution paths and plots them in an aesthetically pleasing way.
 
 <p align="center">
 
