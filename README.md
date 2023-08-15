@@ -1,7 +1,7 @@
 # Lukas Taylor Portfolio
 
 ## Kaggle.com Awards:
-1) Earned bronze metal for four studies
+1) Earned bronze medal for four studies
 2) .002272 RMSE away from first place on "Feature Imputation with a Heat Flux Dataset" competition
 3) Top 20% in "House Prices - Advanced Regression Techniques" competition
 
