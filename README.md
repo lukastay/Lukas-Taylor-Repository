@@ -121,6 +121,11 @@ This data finds problems for inflated accuracy scores in the Non-alcohol fatty l
 
 </p>
 
+### 7) [Using SQL Queries To Forecast Prices](https://www.kaggle.com/code/lukastaylor2/sql-price-forecasting)
+
+
+<img src="https://www.kaggleusercontent.com/kf/141144140/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..LBW2PJKFtK0JvIhkeY8pjg.AtCDQOEJlzcQhImULdd3w_lB0MAZxd2bUAYb7LggEZR6wNr2kjvbEf3k7McKll3fm8madamFo442uKqfDW7Gd7gVSSbr-_0vDDfsO55fAFGSnVEQ-acQvzq5Z1cPiWj2EycIqdye46ZzIopVOvuXyTLNv6YjmM4cR6tONbHEwswMuC75TtDlV9vwebLNMvfri7x70sraZQ3R9PcHdRuTV3bbfa3SE6JYvTqfRIj_ivy2mikLti6PIRrEry1CKxfCGNEt8I6DlO-pxHS0hes1GSL48tcx7lnfDz5H7eX398yVXUxc12g0pELPEr-1vEYtm4RozxS9pFnwtKqO6xKiAtZkmqh28kLifQTbD_KB_kGZtUq6e5wRuS_FccqXgMVwt4YomWBr0pzMSFKnv126YksDSoTJYXmu_nwvfypPHI_iswbfKih5six94wOZj4yYDJEYKc-7_LX3M_6OvLtIx5aE8sG7ZMs4_e0Xy79jQI8LIvbPwhK6tLquCUf3amwswx8cRzk6pebqSSkOAJ5s1P2ItrRKFIyyhNIvnHASP0b72JFuFFZZBHcM6cG6fRhaEEFwMnqeZy1iBlAGve4XKV-yNesQk3dwhr2VMm2f7zLYLIdMfkK46agjTAnVdtqDMWbaJbkJ0PFk9H8c9xwA3K-b1g7adyIu8R12-flJp0k.PsPaMVgZ_U4ZSx10JuiyQg/__results___files/__results___24_1.png" width="1150">
+
 ### 7) [Titanic Survivor Dataset - Mass Testing Of Machine Learning Estimators](https://www.kaggle.com/code/lukastaylor2/titanic-mass-testing-of-estimators-v2)
 
 This project leverages data on characteristics of people who survived the Titanic disaster to predict whether passengers with unknown data survived or did not survive. It mass-tests 20+ classifiers, and then tunes the hyperparamets of the best model. (Bronze Medal On Kaggle)
