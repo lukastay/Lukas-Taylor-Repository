@@ -11,9 +11,9 @@
 #### [LinkedIn](https://www.linkedin.com/in/lukastaylor72764/)
 
 ## Kaggle.com Awards:
-1) Earned bronze medal for four studies
+1) Awarded Kaggle.com Notebooks Expert
 2) .002272 RMSE away from first place on "Feature Imputation with a Heat Flux Dataset" competition
-3) Top 20% in "House Prices - Advanced Regression Techniques" competition
+1) Top 20% in "House Prices - Advanced Regression Techniques" competition
 
 ## Custom-Built Data Visualization & Analysis Tools:
 
