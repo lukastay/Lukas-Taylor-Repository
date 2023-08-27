@@ -101,7 +101,15 @@ Demonstrated strong data visualization skills with supermarket sales data. (Bron
 
 </p>
 
-### 5) [LASSO Solution Paths: Essay And Code Tutorial](https://www.kaggle.com/lukastaylor2/lasso-solution-path-plot)
+### 5) [Tableau Sales Dashboard](https://drive.google.com/file/d/1P3ihDhD-bts2TY9POd7l_X9ISxXmBfBo/view?usp=sharing)
+
+<p align="center">
+
+<img src="images/tableau.png?raw=true" width="1000">
+
+</p>
+
+### 6) [LASSO Solution Paths: Essay And Code Tutorial](https://www.kaggle.com/lukastaylor2/lasso-solution-path-plot)
 
 Explains LASSO solution paths and plots them in an aesthetically pleasing way.
 
@@ -111,7 +119,7 @@ Explains LASSO solution paths and plots them in an aesthetically pleasing way.
 
 </p>
 
-### 6) [Non Alcohol Fatty Liver Disease Dataset - Mass Classifier Testing And Under-sampling](https://www.kaggle.com/code/lukastaylor2/fatty-liver-20-classifiers-92-74-undrsmpl) 
+### 7) [Non Alcohol Fatty Liver Disease Dataset - Mass Classifier Testing And Under-sampling](https://www.kaggle.com/code/lukastaylor2/fatty-liver-20-classifiers-92-74-undrsmpl) 
 
 This data finds problems for inflated accuracy scores in the Non-alcohol fatty liver disease dataset due to problems with the dataset having much more data for people without the disease than with the disease. Then, it "under-samples" the data, which is where you remove certain parts of the data to make a more representative dataset. Finally, it re-evaluates classifier scores using the under-sampled data. (Bronze Medal On Kaggle)
 
@@ -121,12 +129,12 @@ This data finds problems for inflated accuracy scores in the Non-alcohol fatty l
 
 </p>
 
-### 7) [Using SQL Queries To Forecast Prices](https://www.kaggle.com/code/lukastaylor2/sql-price-forecasting)
+### 8) [Using SQL Queries To Forecast Prices](https://www.kaggle.com/code/lukastaylor2/sql-price-forecasting)
 
 
 <img src="https://www.kaggleusercontent.com/kf/141144140/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..LBW2PJKFtK0JvIhkeY8pjg.AtCDQOEJlzcQhImULdd3w_lB0MAZxd2bUAYb7LggEZR6wNr2kjvbEf3k7McKll3fm8madamFo442uKqfDW7Gd7gVSSbr-_0vDDfsO55fAFGSnVEQ-acQvzq5Z1cPiWj2EycIqdye46ZzIopVOvuXyTLNv6YjmM4cR6tONbHEwswMuC75TtDlV9vwebLNMvfri7x70sraZQ3R9PcHdRuTV3bbfa3SE6JYvTqfRIj_ivy2mikLti6PIRrEry1CKxfCGNEt8I6DlO-pxHS0hes1GSL48tcx7lnfDz5H7eX398yVXUxc12g0pELPEr-1vEYtm4RozxS9pFnwtKqO6xKiAtZkmqh28kLifQTbD_KB_kGZtUq6e5wRuS_FccqXgMVwt4YomWBr0pzMSFKnv126YksDSoTJYXmu_nwvfypPHI_iswbfKih5six94wOZj4yYDJEYKc-7_LX3M_6OvLtIx5aE8sG7ZMs4_e0Xy79jQI8LIvbPwhK6tLquCUf3amwswx8cRzk6pebqSSkOAJ5s1P2ItrRKFIyyhNIvnHASP0b72JFuFFZZBHcM6cG6fRhaEEFwMnqeZy1iBlAGve4XKV-yNesQk3dwhr2VMm2f7zLYLIdMfkK46agjTAnVdtqDMWbaJbkJ0PFk9H8c9xwA3K-b1g7adyIu8R12-flJp0k.PsPaMVgZ_U4ZSx10JuiyQg/__results___files/__results___24_1.png" width="1150">
 
-### 7) [Titanic Survivor Dataset - Mass Testing Of Machine Learning Estimators](https://www.kaggle.com/code/lukastaylor2/titanic-mass-testing-of-estimators-v2)
+### 9) [Titanic Survivor Dataset - Mass Testing Of Machine Learning Estimators](https://www.kaggle.com/code/lukastaylor2/titanic-mass-testing-of-estimators-v2)
 
 This project leverages data on characteristics of people who survived the Titanic disaster to predict whether passengers with unknown data survived or did not survive. It mass-tests 20+ classifiers, and then tunes the hyperparamets of the best model. (Bronze Medal On Kaggle)
 
@@ -136,7 +144,7 @@ This project leverages data on characteristics of people who survived the Titani
 
 </p>
    
-### 8) [ Dermamtology Dataset - Diagnosing The Dataset As Inflating Other Users' Machine Learning Scores](https://www.kaggle.com/code/lukastaylor2/dermamtology-fixing-inflated-accuracy-scores)
+### 10) [ Dermamtology Dataset - Diagnosing The Dataset As Inflating Other Users' Machine Learning Scores](https://www.kaggle.com/code/lukastaylor2/dermamtology-fixing-inflated-accuracy-scores)
 
 Using decision tree analysis, this journal showed how low in-class variance for any given variable given to machine learning tools can cause inflated accuracy scores. With low in-class variance, a machine learning tool will simply predict a given result based on arbitrary data.
 
@@ -146,7 +154,7 @@ Using decision tree analysis, this journal showed how low in-class variance for 
 
 </p>
 
-### 9) [ Backwards Selection For Optimal Regression Modeling](https://www.kaggle.com/lukastaylor2/backwards-regression) 
+### 11) [ Backwards Selection For Optimal Regression Modeling](https://www.kaggle.com/lukastaylor2/backwards-regression) 
 
 Backwards selection for regression analysis. Backwards selection chooses variables to use in a regression by testing which variables, when left out of a regression, raise the predictability of the model.
 
@@ -156,7 +164,7 @@ Backwards selection for regression analysis. Backwards selection chooses variabl
 
 </p>
    
-### 10) [Diabetes Dataset - Classifier Testing And Undersampling](https://www.kaggle.com/code/lukastaylor2/diabetes-20-classifiers-97-91-undrsmpl)
+### 12) [Diabetes Dataset - Classifier Testing And Undersampling](https://www.kaggle.com/code/lukastaylor2/diabetes-20-classifiers-97-91-undrsmpl)
 
 This project focuses on predicting whether a person has diabetes based on factors like gender, age, BMI, and others. First, I do exploratory data analysis and data visualizations. Then, I utilize LASSO, a way of creating models with only the most significant variables. Next, I mass-test many scikit learn classifiers and tune the hyperparameters of the highest scoring classifier. (Bronze Medal On Kaggle)
 
@@ -166,7 +174,7 @@ This project focuses on predicting whether a person has diabetes based on factor
 
 </p>
 
-### 11) [ Heat Flux Dataset - Feature Imputation And Hyperparameter Tuning Of Machine Learning Tools](https://www.kaggle.com/code/lukastaylor2/heat-flux-miceforest-and-pycaret) 
+### 13) [ Heat Flux Dataset - Feature Imputation And Hyperparameter Tuning Of Machine Learning Tools](https://www.kaggle.com/code/lukastaylor2/heat-flux-miceforest-and-pycaret) 
 
 This project attempts to predict critical heat flux values. First, the project uses feature imputation using Miceforest, which is a way of dealing with missing data by guessing variable values based on similar data with known values. Secondly, it tests 20+ regression techniques to predict heat flux values and tunes hyperparameters for the best regression model.
 
@@ -176,7 +184,7 @@ This project attempts to predict critical heat flux values. First, the project u
 
 </p>
   
-### 12) [House Prices Dataset - Experiments In Visualizing Machine Learning Feature Space](https://www.kaggle.com/code/lukastaylor2/housing-prices-ml-visualization)
+### 14) [House Prices Dataset - Experiments In Visualizing Machine Learning Feature Space](https://www.kaggle.com/code/lukastaylor2/housing-prices-ml-visualization)
 
 This project uses tensorflow to visualize both random forest and decision tree machine learning methods.
 
@@ -186,7 +194,7 @@ This project uses tensorflow to visualize both random forest and decision tree m
 
 </p>
 
-### 13) [Python Tutorial: Creating High Resolution Plots](https://www.kaggle.com/code/lukastaylor2/tutorial-high-resolution-plots/notebook) 
+### 15) [Python Tutorial: Creating High Resolution Plots](https://www.kaggle.com/code/lukastaylor2/tutorial-high-resolution-plots/notebook) 
 
 Tutorial for building high resolution plots in matplotlib and seaborn.
 
@@ -197,11 +205,11 @@ Tutorial for building high resolution plots in matplotlib and seaborn.
 
 </p>
    
-### 14) [Pythonreader](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/pythonreader.py) 
+### 16) [Pythonreader](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/pythonreader.py) 
 
 A python script that looks through PDFs for keywords that match words on a user's current computer screen.
 
-### 15) [Pakistan Houses Dataset - Testing Many Regressors, Finds LGBM Is Best](https://www.kaggle.com/code/lukastaylor2/pakistan-houses-many-regressors-lgbm-best)
+### 17) [Pakistan Houses Dataset - Testing Many Regressors, Finds LGBM Is Best](https://www.kaggle.com/code/lukastaylor2/pakistan-houses-many-regressors-lgbm-best)
 
 This project uses housing data from Pakistan to predict housing prices. It finds Light Gradient Boosting Machine to be the most predictive.
 
@@ -211,7 +219,7 @@ This project uses housing data from Pakistan to predict housing prices. It finds
 
 </p>
 
-### 16) [Optimized Linear Regression vs. Machine Learning](https://www.kaggle.com/code/lukastaylor2/emissions-optimized-linear-regression-vs-ml/notebook)
+### 18) [Optimized Linear Regression vs. Machine Learning](https://www.kaggle.com/code/lukastaylor2/emissions-optimized-linear-regression-vs-ml/notebook)
 
 Here I compare RMSE of linear regression vs. machine learning models. I use backwards selection, forwards selection, LASSO, LASSO CV, LASSO AIC, and LASSO BIC.
 
@@ -222,7 +230,7 @@ Here I compare RMSE of linear regression vs. machine learning models. I use back
 
 </p>
 
-### 17) [Forecasting Tomorrow's Carbon Emissions](https://www.kaggle.com/code/lukastaylor2/r-forecasting-101)
+### 19) [Forecasting Tomorrow's Carbon Emissions](https://www.kaggle.com/code/lukastaylor2/r-forecasting-101)
 
 Uses Holt, Moving Average, regression, and ARIMA models to forecast future emissions.
 
@@ -232,6 +240,6 @@ Uses Holt, Moving Average, regression, and ARIMA models to forecast future emiss
 
 </p>
    
-### 18) [STATA - 2SLS Regression On Settler Mortality And Education](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/STATA%20-%202SLS%20Regression.do) 
+### 20) [STATA - 2SLS Regression On Settler Mortality And Education](https://github.com/lukastay/Lukas-Taylor-Repository/blob/main/STATA%20-%202SLS%20Regression.do) 
 
 Two-Stage Least Squares regression code for STATA. Then, I visualize multiple regressions by year.
